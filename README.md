@@ -2,7 +2,7 @@
 
 This repository contains the top-level documentation and coordination scripts for the multi-stage process used to create county-level forecasts for several variables for use in land-use modeling associated with the metropolitan transportation plan.  These forecasts are known as "county controls" or "county-control totals" because they provide an overall constraint for forecasts associated with smaller geographies, specifically traffic analysis zones.  The forecasted variables include the following:
 
-  - Population overall [county-pop-forecasts:522628426](https://github.com/morpc/county-pop-forecasts)
+  - Population overall ([county-pop-forecasts:522628426](https://github.com/morpc/county-pop-forecasts))
   - Population by age
   - Population in households and group quarters
   - Households and housing units
