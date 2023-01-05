@@ -15,3 +15,6 @@ Detailed information about the workflows used to derive each forecast is availab
 ![MTP county controls workflow overview flowchart](https://github.com/morpc/morpc-county-controls/blob/98d8559485a6f739d749cb52f0e526f4bda3911c/doc/County%20controls%20process%20flow%20diagrams-Overview.png)
 
 A more detailed workflow diagram is available in [./doc/County controls process flow diagrams.drawio](https://github.com/morpc/morpc-county-controls/blob/main/doc/County%20controls%20process%20flow%20diagrams.drawio) (also available as a [PDF](https://github.com/morpc/morpc-county-controls/blob/main/doc/County%20controls%20process%20flow%20diagrams-Detailed.drawio.pdf))
+
+The deliverables include:
+  - [CountyControls_WEB.xlsx](https://github.com/morpc/morpc-county-controls/blob/main/deliverables/CountyControls_WEB.xlsx) - A hybrid human/machine readable document intended for dissemination via the [MORPC Population Resource Hub](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/County-Projections/?draft=true).  As of January 2023, this is assembled manually from the outputs of the processes linked above.
