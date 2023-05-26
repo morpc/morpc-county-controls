@@ -39,7 +39,70 @@ The deliverables include:
 
 More information about the structure and implementation of the [Population Resource Hub](https://www.morpc.org/popdata) is available in the [morpc-population-hub](https://github.com/morpc/morpc-population-hub) repository in GitHub.
 
-### Validation
+### Process: Update the deliverable spreadsheet 
+
+A manual process is used to assemble the various forecasts into a single deliverable spreadsheet, as described above.  The steps for that process are as follows.
+
+#### Preparation
+
+  1. Clone this repository to your local computer using a git client (e.g. git bash or GitHub Desktop).
+  1. Open the file `./deliverables/CountyControls_WEB.xlsx` in Excel
+
+#### Update "Total Population" tab
+
+
+#### Update "Population Chart Data" tab
+
+#### Update "Population Charts" tab
+
+#### Update "Population by Age" tab
+
+  1. Activate the "Population by Age" tab in the deliverable county controls spreadsheet and locate the table labeled "Population by Age Under 18". Refer to this table as TARGET.
+  2. Open the output dataset for the "Under 18" age category as specified in the Population by Age workflow documentation linked above and locate the referenced table.  Refer to this table as SOURCE.
+  3. Verify that the row labels in SOURCE match the row labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).
+  4. Verify that the column labels in SOURCE match the column labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).
+  5. Select the **cells containing values only** from SOURCE. Do not select row or column labels.
+  6. Copy the values from SOURCE.
+  7. Select the corresponding cells in TARGET.
+  8. Paste the **values only** in the selected cells in TARGET.  Do not overwrite the existing cell formatting.
+  9. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Population by Age" tab, "Population by Age 18 to 64" table.
+	- SOURCE: Output dataset and table for "18 to 64" category as specified in the Population by Age workflow documentation.
+  10. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Population by Age" tab, "Population by Age 65 and older" table.
+	- SOURCE: Output dataset and table for "65 and over" category as specified in the Population by Age workflow documentation.  
+  11. In the deliverable spreadsheet, change to last updated indicator at the bottom of the "Population by Age" tab to reflect the current date.
+  
+#### Update "Group Quarters and Households" tab
+
+#### Update "Household Population by Age" tab
+
+#### Update "Households and Housing Units" tab
+
+#### Update "Residential Labor Force" tab
+
+#### Update "Jobs" tab
+
+#### Update "All Data (Unformatted)" tab
+
+#### Update "Variable Dictionary" tab
+    
+#### Update "Revision History" tab
+
+  1. Activate the "Revision History" tab in the deliverable county controls spreadsheet
+  1. Do **one** of the following:
+    - If this update is in preparation for the initial release of a new set of forecasts as is typical early in an MTP cycle, delete the contents of all rows except the header row
+    - If this update constitutes a revision to an already-released set of forecasts, add a separate record in the table for each tab that was revised indicating the sheet (tab) affected, the date of the revision, and a detailed description of the changes made.
+
+#### Wrap up
+
+  1. Save the file to disk.
+  1. Add the file to a changeset using your git client.
+  1. Commit the changeset and include a meaningful commit message.
+  1. Push the commit to GitHub.
+	
+	
+### Process: Validation
 
 Prior to acceptance, each forecast must be validated to ensure that the process used was appropriate, the input data was appropriate, and the outputs are internally consistent and reasonable when compared to other forecasts for the same periods.  Validation consists of ensuring that the requirements in the list below are satisfied.  If a requirement is not satisfied, the analyst should document the non-conformance work with the project team to determine what corrective actions are required.  Some requirements are subjective.  In these cases, the analyst should evaluate the forecast through the lens of a reasonable person who has a general familiarity with the underlying phenomena and error on the side of caution.  That is, if there is any question that the requirement has been met, it should be noted as a non-conformance and brought to the project team for further evaluation.  All notes, non-conformances, corrective actions, and verification of the corrective actions should be documented using a copy of the [County Controls QA Rubric template](https://github.com/morpc/morpc-county-controls/blob/main/templates/County%20Controls%20QA%20Rubric%20template.xlsx).  A rubric should be completed for each of the sub-processes identified above.
 
