@@ -1,14 +1,25 @@
 # MTP County Controls
 
-This repository contains the top-level documentation and coordination scripts for the multi-stage process used to create county-level forecasts for several variables for use in land-use modeling associated with the metropolitan transportation plan.  These forecasts are known as "county controls" or "county-control totals" because they provide an overall constraint for forecasts associated with smaller geographies, specifically traffic analysis zones.  The forecasted variables include the following:
+This repository contains the top-level documentation and coordination scripts for the multi-stage process used to create county-level forecasts for several variables for use in land-use modeling associated with the Metropolitan Transportation Plan.  These forecasts are known as "county controls" or "county-control totals" because they provide an overall constraint for forecasts associated with smaller geographies, specifically traffic analysis zones and their sub-geographies.  The forecasted variables include the following:
 
-  - Population overall ([county-pop-forecasts:522628426](https://github.com/morpc/county-pop-forecasts))
-  - Population by age
+  - Total population
+    - Workflow documentation: [morpc-forecasts-countypop](https://github.com/morpc/morpc-forecasts-countypop)
+	- Primary contact: Adam Porr
+  - Population by age 
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+	- Primary contact: Ethan Hug
   - Population in households and group quarters
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+	- Primary contact: Ethan Hug
   - Households and housing units
-  - Workers
-  - Jobs
-  - Jobs by industry
+	- Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+	- Primary contact: Ethan Hug
+  - Labor force and workers
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+	- Primary contact: Ethan Hug
+  - Total jobs and jobs by industry
+    - Workflow documentation: [morpc-forecasts-countyjobs](https://github.com/morpc/morpc-forecasts-countyjobs)
+	- Primary contacts: Ethan Hug, Adam Porr
 
 Detailed information about the workflows used to derive each forecast is available at the links above.  At a high level, the workflow is sequenced as follows:
 
@@ -17,8 +28,11 @@ Detailed information about the workflows used to derive each forecast is availab
 A more detailed workflow diagram is available in [./doc/County controls process flow diagrams.drawio](https://github.com/morpc/morpc-county-controls/blob/main/doc/County%20controls%20process%20flow%20diagrams.drawio) (also available as a [PDF](https://github.com/morpc/morpc-county-controls/blob/main/doc/County%20controls%20process%20flow%20diagrams-Detailed.drawio.pdf))
 
 The deliverables include:
-  - [CountyControls_WEB.xlsx](https://github.com/morpc/morpc-county-controls/blob/main/deliverables/CountyControls_WEB.xlsx). This is the primary deliverable.  It is a hybrid human/machine readable document intended for use in the MTP Land Use Model (specifically, the "All Data" tab is used for this) and for dissemination via the MORPC Population Hub (see below).  As of January 2023, this is assembled manually from the outputs of the processes linked above.
-  - The [County Forecasts page](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/County-Projections/) on the MORPC Population Resource hub. This includes an [interactive chart](https://morpc.maps.arcgis.com/home/item.html?id=d0d905833e714284b6b692b4e922a765) showing the data, and links to the primary spreadsheet (see above), a short insights document (see below), and a separate web map (see below).  The interactive chart requires a long-form dataset (Shapefile) that is derived from the primary spreadsheet using [Create Population Hub table.ipynb](https://github.com/morpc/morpc-county-controls/blob/main/Create%20Population%20Hub%20table.ipynb)
-  - A [web map](https://morpc.maps.arcgis.com/home/item.html?id=bf159caa48cf4686ad7ae584ea79295a) showing the forecasts by county for a user-selected year.  Eventually this map may be augmented to include other layers such as the [TAZ-level forecasts](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/Forecasts/)
-  - A short (two-ish  page) document containing key insights derived from the forecasts and related data.  The first draft of this is produced by the data team, but the final version is an org-wide collaboration that is ultimately produced by Communications & Engagement.
+  - [County controls spreadsheet](https://github.com/morpc/morpc-county-controls/blob/main/deliverables/CountyControls_WEB.xlsx) - This is the primary deliverable. It is a hybrid human/machine readable document intended for use in the MTP Land Use Model (specifically, the "All Data" tab is used for this) and for dissemination via the MORPC Population Hub (see below).
+  - [County forecasts dashboard](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/County-Projections/) - The County Forecasts page on the MORPC Population Resource hub. This includes an interactive chart showing the data, and links to the primary spreadsheet (see above), a separate web map, and a short insights document (see below).
+  - [County forecasts webmap](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/Forecasts-maps/) - A separate page on the MORPC Population Resource hub that includes a webmap showing the data.  
+  - [County forecasts insights document](https://www.morpc.org/wordpress/wp-content/uploads/2023/02/Population_Growth_Forecast_2024-50.pdf) - A short document that includes key statistics from the county controls and insights drawn from this data and other relevant data.
+  - [County population trends slides](https://github.com/morpc/morpc-popest/blob/main/deliverables/MORPC Counties Population Trends.pptx) (partial) - A hybrid data product consisting of PowerPoint slides constructed from the county-level population forecasts described herein, plus county-level population estimates and factors of population change produced annually through separate efforts (see [morpc-popest](https://github.com/morpc/morpc-popest) and [morpc-popfactors-annual](https://github.com/morpc/morpc-popfactors-annual)).
+  - [County population trends spreadsheet](https://github.com/morpc/morpc-popest/blob/main/deliverables/MORPC Counties Population Trends.xlsx) (partial) - A spreadsheet intended primarily to produce the charts used in the county population trends slides (above) but which might be useful as a data product in its own right.
 
+More information about the structure and implementation of the [Population Resource Hub](https://www.morpc.org/popdata) is available in the [morpc-population-hub](https://github.com/morpc/morpc-population-hub) repository in GitHub.
