@@ -6,13 +6,13 @@ This repository contains the top-level documentation and coordination scripts fo
     - Workflow documentation: [morpc-forecasts-countypop](https://github.com/morpc/morpc-forecasts-countypop)
 	- Primary contact: Adam Porr
   - Population by age 
-    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx (Part B)
 	- Primary contact: Ethan Hug
   - Housing and group quarters
-    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx (Part C)
 	- Primary contact: Ethan Hug
   - Household population by age
-    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx (Part C)
 	- Primary contact: Ethan Hug
   - Households and housing units
 	- Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
@@ -87,7 +87,7 @@ A manual process is used to assemble the various forecasts into a single deliver
   7. Select the corresponding cells in TARGET.
   8. Paste the **values only** in the selected cells in TARGET.  Do not overwrite the existing cell formatting.
   9. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
-    - TARGET: Deliverable county controls spreadsheet, "Group Quarters and Households" tab, "Population in Households table.
+    - TARGET: Deliverable county controls spreadsheet, "Group Quarters and Households" tab, "Household population" table.
 	- SOURCE: Output dataset and table for household population as specified in the Population by Age workflow documentation.
   10. In the deliverable spreadsheet, change to last updated indicator at the bottom of the "Group Quarters and Households" tab to reflect the current date.
 
