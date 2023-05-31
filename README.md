@@ -8,7 +8,10 @@ This repository contains the top-level documentation and coordination scripts fo
   - Population by age 
     - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
 	- Primary contact: Ethan Hug
-  - Population in households and group quarters
+  - Housing and group quarters
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+	- Primary contact: Ethan Hug
+  - Household population by age
     - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
 	- Primary contact: Ethan Hug
   - Households and housing units
@@ -75,7 +78,36 @@ A manual process is used to assemble the various forecasts into a single deliver
   
 #### Update "Group Quarters and Households" tab
 
+  1. Activate the "Group Quarters and Households" tab in the deliverable county controls spreadsheet and locate the table labeled "Population in Group Quarters". Refer to this table as TARGET.
+  2. Open the output dataset for the group quarters population as specified in the Group Quarters and Households workflow documentation linked above and locate the referenced table.  Refer to this table as SOURCE.
+  3. Verify that the row labels in SOURCE match the row labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).
+  4. Verify that the column labels in SOURCE match the column labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).	
+  5. Select the **cells containing values only** from SOURCE. Do not select row or column labels.
+  6. Copy the values from SOURCE.
+  7. Select the corresponding cells in TARGET.
+  8. Paste the **values only** in the selected cells in TARGET.  Do not overwrite the existing cell formatting.
+  9. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Group Quarters and Households" tab, "Population in Households table.
+	- SOURCE: Output dataset and table for household population as specified in the Population by Age workflow documentation.
+  10. In the deliverable spreadsheet, change to last updated indicator at the bottom of the "Group Quarters and Households" tab to reflect the current date.
+
 #### Update "Household Population by Age" tab
+
+  1. Activate the "Household Population by Age" tab in the deliverable county controls spreadsheet and locate the table labeled "Household Population by Age Under 18). Refer to this table as TARGET.
+  2. Open the output dataset for the group quarters population as specified in the Household Population by Age workflow documentation linked above and locate the referenced table.  Refer to this table as SOURCE.
+  3. Verify that the row labels in SOURCE match the row labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).
+  4. Verify that the column labels in SOURCE match the column labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).	
+  5. Select the **cells containing values only** from SOURCE. Do not select row or column labels.
+  6. Copy the values from SOURCE.
+  7. Select the corresponding cells in TARGET.
+  8. Paste the **values only** in the selected cells in TARGET.  Do not overwrite the existing cell formatting.
+  9. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Household Population by Age" tab, "Household Population By Age 18-64" table.
+	- SOURCE: Output dataset and table for household population by age 18-64 as specified in the Household Population by Age workflow documentation.
+  10. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Household Population by Age" tab, "Household Population By Age 65 and older" table.
+	- SOURCE: Output dataset and table for household population by age 65 and older as specified in the Household Population by Age workflow documentation.
+  11. In the deliverable spreadsheet, change to last updated indicator at the bottom of the "Household Population by Age" tab to reflect the current date.
 
 #### Update "Households and Housing Units" tab
 
