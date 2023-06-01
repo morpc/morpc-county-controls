@@ -18,7 +18,7 @@ This repository contains the top-level documentation and coordination scripts fo
 	- Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx (Part D)
 	- Primary contact: Ethan Hug
   - Labor force and workers
-    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx
+    - Workflow documentation: N:\DATA\Projections and Estimates\MORPC Projections\Projections 2021\Documentation\2024 - 2050 County Projection Methods.docx (Part E)
 	- Primary contact: Ethan Hug
   - Total jobs and jobs by industry
     - Workflow documentation: [morpc-forecasts-countyjobs](https://github.com/morpc/morpc-forecasts-countyjobs)
@@ -126,7 +126,22 @@ A manual process is used to assemble the various forecasts into a single deliver
 
 #### Update "Residential Labor Force" tab
 
+  1. Activate the "Residential Labor Force" tab in the deliverable county controls spreadsheet and locate the table labeled "Residential Labor Force". Refer to this table as TARGET.
+  2. Open the output dataset for the residential labor force as specified in the "Labor force and workers" workflow documentation linked above and locate the referenced table.  Refer to this table as SOURCE.
+  3. Verify that the row labels in SOURCE match the row labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).
+  4. Verify that the column labels in SOURCE match the column labels in TARGET.  If they do not match, make the necessary adjustments (preferably to SOURCE).	
+  5. Select the **cells containing values only** from SOURCE. Do not select row or column labels.
+  6. Copy the values from SOURCE.
+  7. Select the corresponding cells in TARGET.
+  8. Paste the **values only** in the selected cells in TARGET.  Do not overwrite the existing cell formatting.
+  9. Repeat steps 1 to 8, changing TARGET and SOURCE as follows:
+    - TARGET: Deliverable county controls spreadsheet, "Residential Labor Force" tab, "Residential Employed Workers" table.
+	- SOURCE: Output dataset and table for housing units as specified in the Population by Age workflow documentation.
+  10. In the deliverable spreadsheet, change to last updated indicator at the bottom of the "Residential Labor Force" tab to reflect the current date.
+
+
 #### Update "Jobs" tab
+
 
 #### Update "All Data (Unformatted)" tab
 
