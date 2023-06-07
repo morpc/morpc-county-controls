@@ -142,11 +142,16 @@ A manual process is used to assemble the various forecasts into a single deliver
 
 #### Update "Jobs" tab
 
+TBD
 
 #### Update "All Data (Unformatted)" tab
 
+TBD
+
 #### Update "Variable Dictionary" tab
-    
+   
+TBD
+   
 #### Update "Revision History" tab
 
   1. Activate the "Revision History" tab in the deliverable county controls spreadsheet
@@ -222,3 +227,39 @@ Outputs:
   1. Each output variable is consistent with any forecasts of the same variable produced by third parties.
     - For example, MORPC population forecasts should be generally comparable to forecasts produced by the Ohio Department of Development or any substantial deviations should be explainable.
 
+
+### Process: Update Population Hub
+
+After the data in the deliverable spreadsheet has been validated as described above, do the following to generate the required datasets for the [county forecasts section of the Population Hub](https://www.morpc.org/popforecast) and to publish the updated datasets to ArcGIS Online (AGO).
+
+  1. Execute the workflow defined in [./Create Population Hub table.ipynb](https://github.com/morpc/morpc-county-controls/blob/main/Create%20Population%20Hub%20table.ipynb).  This will produce two outputs:
+    - [countyControlsHubTable.csv](https://github.com/morpc/morpc-county-controls/blob/main/output_data/countyControlsHubTable.csv) - A CSV file which feeds the chart in the Population Hub dashboard.
+	- [countyControlsHubFeatureClass.zip](https://github.com/morpc/morpc-county-controls/blob/main/output_data/countyControlsHubFeatureClass.zip) - A zipped Shapefile which feeds a map on a separate page in the Population Hub.
+  1. Upload the CSV file to AGO as follows:
+    1. Log into ArcGIS Online (MORPC organization)
+    1. Navigate to the item page for the [countyControlsHubTable hosted feature layer](https://morpc.maps.arcgis.com/home/item.html?id=1744d71d567e43c5a220c2f27cb64e70)
+    1. Click "Update Data", then "Overwrite Entire Layer".
+    1. When prompted for the file to upload, select your local copy of the `countyControlsHubTable.csv` file linked above 
+    1. Open the [county forecasts](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/County-Projections/) page in the Population Hub and verify that the chart reflects the new data.
+    1. If necessary, troubleshoot or make changes to the [dashboard](https://morpc.maps.arcgis.com/apps/dashboards/d0d905833e714284b6b692b4e922a765) itself.
+  1. Upload the Shapefile to AGO as follows:
+    1. Log into ArcGIS Online (MORPC organization)
+    1. Navigate to the item page for the [countyControlsHubFeatureClass hosted feature layer](https://morpc.maps.arcgis.com/home/item.html?id=7d065268a570440a90ce6fbf0130192f)
+    1. Click "Update Data", then "Overwrite Entire Layer".  
+    1. When prompted for the file to upload, select your local copy of the `countyControlsHubFeatureClass.zip` file linked above.
+    1. Open the [county forecasts web map](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/Forecasts-maps/) and verify that the map reflects the new data.  If necessary, troubleshoot or make changes to the map.
+  1. Upload the deliverable spreadsheet to AGO as follows:
+    1. Log into ArcGIS Online (MORPC organization)
+    1. Navigate to the item page for the [County controls spreadsheet Excel document](https://morpc.maps.arcgis.com/home/item.html?id=411b507692104e6792e99edaead2d48f)
+    1. Click "Update".
+    1. When prompted for the file to upload, select your local copy of the deliverable spreadsheet, [CountyControls_WEB.xlsx](https://github.com/morpc/morpc-county-controls/blob/main/deliverables/CountyControls_WEB.xlsx), and click "Update Item".
+	1 Download the [deliverable spreadsheet stored on AGO](https://morpc.maps.arcgis.com/sharing/rest/content/items/411b507692104e6792e99edaead2d48f/data), open it, and verify that it matches the version you just uploaded.
+  1. Update the last updated date indicator for the county population forecasts as follows:
+    1. Navigate to the item page for the [Population Hub app](https://morpc.maps.arcgis.com/home/item.html?id=cd446109151f474db74b13fa0795023c).
+	1. Click the "Edit" button.  The ArcGIS Experience Builder app will open.
+	1. Locate the "card" on the app home page that links to the county forecasts.
+	1. Activate the text box that contains the "last updated" indicator.
+	1. Edit the text to reflect the month and year of the most recent update.
+	1. Click the "Save" icon in the Experience Builder header.  Verify that the save was successful.
+    1. Click the "Publish" button in the Experience Builder header.  Verify that the publication was successful.
+	1. Navigate to the the [MORPC Population Hub homepage](https://www.morpc.org/popdata).  Verify that last updated indicator on the county forecasts card reflects the changed date.
