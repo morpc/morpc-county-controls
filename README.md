@@ -249,10 +249,14 @@ After the data in the deliverable spreadsheet has been validated as described ab
     - Open the [county forecasts web map](https://experience.arcgis.com/experience/cd446109151f474db74b13fa0795023c/page/Forecasts-maps/) and verify that the map reflects the new data.  If necessary, troubleshoot or make changes to the map.
   - Upload the deliverable spreadsheet to AGO as follows:
     - Log into ArcGIS Online (MORPC organization)
-    - Navigate to the item page for the [County controls spreadsheet Excel document](https://morpc.maps.arcgis.com/home/item.html?id=411b507692104e6792e99edaead2d48f)
+    - Navigate to the item page for the [county controls spreadsheet Excel document](https://morpc.maps.arcgis.com/home/item.html?id=411b507692104e6792e99edaead2d48f)
     - Click "Update".
     - When prompted for the file to upload, select your local copy of the deliverable spreadsheet, [CountyControls_WEB.xlsx](https://github.com/morpc/morpc-county-controls/blob/main/deliverables/CountyControls_WEB.xlsx), and click "Update Item".
     -Download the [deliverable spreadsheet stored on AGO](https://morpc.maps.arcgis.com/sharing/rest/content/items/411b507692104e6792e99edaead2d48f/data), open it, and verify that it matches the version you just uploaded.
+  - On the ArcGIS item page for the county controls Excel document: 
+    - Change the title of the item (if necessary) to reflect the MTP that it is associated with, e.g. "MTP 2024-2050 County Forecasts". 
+	- Verify that the item is shared with the public **and** the "MORPC Data Downloads" group.  This will ensure the item appears in MOOD.
+	- Verify that "demographicsHub" is included among the item's tags.  This will ensure that the item appears in the Demographics collection in MOOD.  Feel free to add additional tags as appropriate.
   - Update the last updated date indicator for the county population forecasts as follows:
     - Navigate to the item page for the [Population Hub app](https://morpc.maps.arcgis.com/home/item.html?id=cd446109151f474db74b13fa0795023c).
 	- Click the "Edit" button.  The ArcGIS Experience Builder app will open.
