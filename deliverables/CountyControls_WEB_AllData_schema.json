@@ -24,6 +24,11 @@
             "doc": "Value of the specified variable as of 2020"
         },
         {
+            "name": 2021,
+            "type": "int",
+            "doc": "Value of the specified variable as of 2021"
+        },		
+        {
             "name": 2025,
             "type": "int",
             "doc": "Value of the specified variable as of 2025"
