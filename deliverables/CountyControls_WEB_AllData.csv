@@ -1,0 +1,392 @@
+COUNTY,CATEGORY,VARIABLE,2020,2021,2025,2030,2035,2040,2045,2050
+15-County Region,Employment,Industrial Employment,271473,274455,286375,298045,314195,327874,340388,351959
+10-County Region,Employment,Industrial Employment,247237,250283,262461,274305,290443,303964,316226,327549
+Delaware,Employment,Industrial Employment,17983,18473,20432,22644,25026,27276,29472,31778
+Fairfield,Employment,Industrial Employment,11631,11719,12071,12527,13191,13902,14625,15317
+Fayette,Employment,Industrial Employment,4383,4394,4439,4520,4588,4659,4747,4851
+Franklin,Employment,Industrial Employment,152138,153068,156790,161726,169623,176594,182552,187699
+Hocking,Employment,Industrial Employment,1851,1841,1799,1748,1724,1712,1710,1702
+Knox,Employment,Industrial Employment,7521,7510,7465,7445,7576,7741,7935,8109
+Licking,Employment,Industrial Employment,18071,19461,25018,27761,30664,31712,32515,33220
+Logan,Employment,Industrial Employment,8351,8321,8202,8140,8151,8231,8370,8499
+Madison,Employment,Industrial Employment,9127,9208,9531,9865,10301,10758,11201,11654
+Marion,Employment,Industrial Employment,8908,8858,8662,8579,8694,8786,8787,8732
+Morrow,Employment,Industrial Employment,1939,1942,1955,1963,2010,2064,2123,2192
+Perry,Employment,Industrial Employment,1822,1825,1835,1825,1838,1862,1893,1924
+Pickaway,Employment,Industrial Employment,4949,5001,5206,5461,5774,6089,6379,6645
+Ross,Employment,Industrial Employment,7829,7791,7639,7507,7451,7446,7442,7434
+Union,Employment,Industrial Employment,14970,15043,15331,16334,17584,19042,20637,22203
+15-County Region,Employment,Office Employment,519085,523470,541012,562050,592725,620000,644439,666893
+10-County Region,Employment,Office Employment,496438,500892,518705,539969,570671,597837,622100,644381
+Delaware,Employment,Office Employment,45294,46527,51459,57034,63032,68700,74231,80036
+Fairfield,Employment,Office Employment,14629,14739,15180,15755,16588,17484,18392,19264
+Fayette,Employment,Office Employment,2972,2979,3009,3064,3111,3159,3219,3289
+Franklin,Employment,Office Employment,374910,377203,386374,398536,417998,435172,449857,462543
+Hocking,Employment,Office Employment,2109,2097,2049,1991,1964,1951,1948,1938
+Knox,Employment,Office Employment,5707,5699,5665,5649,5749,5876,6023,6154
+Licking,Employment,Office Employment,23241,23947,26769,28496,31029,32376,33407,34314
+Logan,Employment,Office Employment,5201,5183,5109,5071,5077,5128,5214,5294
+Madison,Employment,Office Employment,5037,5081,5260,5444,5684,5938,6180,6431
+Marion,Employment,Office Employment,7759,7715,7543,7473,7572,7652,7651,7605
+Morrow,Employment,Office Employment,1943,1946,1958,1967,2014,2067,2127,2196
+Perry,Employment,Office Employment,2328,2331,2346,2332,2350,2380,2418,2460
+Pickaway,Employment,Office Employment,5248,5303,5521,5792,6122,6456,6764,7046
+Ross,Employment,Office Employment,10037,9988,9794,9623,9552,9545,9540,9531
+Union,Employment,Office Employment,12670,12732,12976,13823,14883,16116,17468,18792
+15-County Region,Employment,Other Employment,208181,209500,214773,221866,233025,243141,252167,260363
+10-County Region,Employment,Other Employment,194454,195816,201264,208500,219675,229730,238655,246750
+Delaware,Employment,Other Employment,11835,12156,13444,14900,16467,17948,19393,20909
+Fairfield,Employment,Other Employment,8328,8391,8642,8969,9443,9952,10469,10966
+Fayette,Employment,Other Employment,1721,1726,1743,1774,1801,1829,1865,1905
+Franklin,Employment,Other Employment,143647,144526,148040,152699,160157,166737,172363,177223
+Hocking,Employment,Other Employment,1410,1402,1369,1329,1313,1303,1301,1295
+Knox,Employment,Other Employment,5376,5368,5335,5320,5415,5534,5672,5796
+Licking,Employment,Other Employment,11009,11077,11346,11719,12622,13260,13748,14180
+Logan,Employment,Other Employment,3063,3052,3008,2985,2991,3020,3071,3119
+Madison,Employment,Other Employment,1987,2004,2073,2147,2241,2341,2438,2536
+Marion,Employment,Other Employment,4508,4483,4383,4341,4400,4446,4446,4420
+Morrow,Employment,Other Employment,1230,1231,1238,1243,1274,1307,1345,1388
+Perry,Employment,Other Employment,1328,1329,1336,1329,1340,1357,1378,1402
+Pickaway,Employment,Other Employment,2554,2581,2687,2819,2981,3142,3293,3429
+Ross,Employment,Other Employment,6205,6175,6053,5949,5905,5902,5897,5892
+Union,Employment,Other Employment,3980,3999,4076,4343,4675,5063,5488,5903
+15-County Region,Employment,Retail Goods Employment,121332,122238,125852,130610,137666,144153,150082,155647
+10-County Region,Employment,Retail Goods Employment,110543,111475,115203,120038,127089,133513,139345,144811
+Delaware,Employment,Retail Goods Employment,14066,14449,15980,17710,19573,21332,23050,24853
+Fairfield,Employment,Retail Goods Employment,7878,7937,8174,8483,8932,9414,9903,10373
+Fayette,Employment,Retail Goods Employment,2435,2442,2467,2512,2550,2589,2638,2695
+Franklin,Employment,Retail Goods Employment,66029,66432,68046,70188,73616,76641,79227,81461
+Hocking,Employment,Retail Goods Employment,1109,1103,1076,1045,1032,1025,1023,1019
+Knox,Employment,Retail Goods Employment,2530,2526,2509,2504,2547,2603,2669,2727
+Licking,Employment,Retail Goods Employment,8843,8900,9128,9434,10163,10676,11068,11413
+Logan,Employment,Retail Goods Employment,2359,2351,2316,2299,2301,2325,2364,2400
+Madison,Employment,Retail Goods Employment,1679,1694,1753,1814,1895,1978,2059,2143
+Marion,Employment,Retail Goods Employment,3067,3050,2983,2954,2993,3025,3025,3007
+Morrow,Employment,Retail Goods Employment,1367,1369,1377,1385,1416,1454,1496,1544
+Perry,Employment,Retail Goods Employment,793,794,799,793,800,810,823,837
+Pickaway,Employment,Retail Goods Employment,1746,1764,1835,1925,2035,2146,2248,2342
+Ross,Employment,Retail Goods Employment,4093,4073,3991,3923,3894,3891,3889,3885
+Union,Employment,Retail Goods Employment,3338,3354,3418,3641,3919,4244,4600,4948
+15-County Region,Employment,Retail Services Employment,144787,145952,150606,151359,165292,173250,180496,187279
+10-County Region,Employment,Retail Services Employment,135866,137058,141820,142583,156597,164511,171679,178384
+Delaware,Employment,Retail Services Employment,17518,17995,19903,20174,24379,26571,28710,30955
+Fairfield,Employment,Retail Services Employment,9043,9111,9385,9424,10255,10808,11370,11909
+Fayette,Employment,Retail Services Employment,1337,1340,1353,1355,1398,1421,1447,1479
+Franklin,Employment,Retail Services Employment,87361,87895,90031,90332,97399,101401,104823,107779
+Hocking,Employment,Retail Services Employment,1289,1282,1251,1247,1200,1191,1189,1185
+Knox,Employment,Retail Services Employment,2394,2390,2374,2373,2410,2464,2525,2580
+Licking,Employment,Retail Services Employment,9341,9423,9752,9867,10905,11447,11861,12225
+Logan,Employment,Retail Services Employment,2383,2374,2340,2338,2325,2347,2388,2424
+Madison,Employment,Retail Services Employment,1644,1659,1716,1726,1855,1937,2017,2098
+Marion,Employment,Retail Services Employment,2573,2559,2500,2498,2510,2537,2537,2523
+Morrow,Employment,Retail Services Employment,1009,1011,1017,1018,1046,1073,1104,1139
+Perry,Employment,Retail Services Employment,879,880,884,883,886,897,911,927
+Pickaway,Employment,Retail Services Employment,1500,1516,1577,1587,1748,1844,1932,2012
+Ross,Employment,Retail Services Employment,3033,3018,2958,2953,2886,2883,2882,2880
+Union,Employment,Retail Services Employment,3483,3499,3565,3584,4090,4429,4800,5164
+15-County Region,Employment,Total Employment,1264858,1275615,1318618,1363930,1442903,1508418,1567572,1622141
+10-County Region,Employment,Total Employment,1184538,1195524,1239453,1285395,1364475,1429555,1488005,1541875
+Delaware,Employment,Total Employment,106696,109600,121218,132462,148477,161827,174856,188531
+Fairfield,Employment,Total Employment,51509,51897,53452,55158,58409,61560,64759,67829
+Fayette,Employment,Total Employment,12848,12881,13011,13225,13448,13657,13916,14219
+Franklin,Employment,Total Employment,824085,829124,849281,873481,918793,956545,988822,1016705
+Hocking,Employment,Total Employment,7768,7725,7544,7360,7233,7182,7171,7139
+Knox,Employment,Total Employment,23528,23493,23348,23291,23697,24218,24824,25366
+Licking,Employment,Total Employment,70505,72808,82013,87277,95383,99471,102599,105352
+Logan,Employment,Total Employment,21357,21281,20975,20833,20845,21051,21407,21736
+Madison,Employment,Total Employment,19474,19646,20333,20996,21976,22952,23895,24862
+Marion,Employment,Total Employment,26815,26665,26071,25845,26169,26446,26446,26287
+Morrow,Employment,Total Employment,7488,7499,7545,7576,7760,7965,8195,8459
+Perry,Employment,Total Employment,7150,7159,7200,7162,7214,7306,7423,7550
+Pickaway,Employment,Total Employment,15997,16165,16826,17584,18660,19677,20616,21474
+Ross,Employment,Total Employment,31197,31045,30435,29955,29688,29667,29650,29622
+Union,Employment,Total Employment,38441,38627,39366,41725,45151,48894,52993,57010
+15-County Region,Households and Housing Units,Households,928223,931608,978700,1024320,1080878,1124934,1162738,1200544
+10-County Region,Households and Housing Units,Households,843872,847271,893782,939056,995127,1038859,1076417,1113978
+Delaware,Households and Housing Units,Households,74797,76772,85911,96507,108116,118569,128443,138317
+Fairfield,Households and Housing Units,Households,58328,58953,61925,65316,69112,72446,75548,78650
+Fayette,Households and Housing Units,Households,11875,11861,12072,12315,12571,12811,13045,13278
+Franklin,Households and Housing Units,Households,526512,525478,552803,575455,604387,626142,644307,662474
+Hocking,Households and Housing Units,Households,11422,11462,11408,11325,11271,11189,11092,10995
+Knox,Households and Housing Units,Households,23424,23473,23943,24385,25009,25424,25735,26046
+Licking,Households and Housing Units,Households,65685,66317,70182,73783,79757,83018,84924,86830
+Logan,Households and Housing Units,Households,18911,18899,18924,19051,19198,19319,19433,19546
+Madison,Households and Housing Units,Households,14855,15047,15758,16554,17428,18213,18951,19690
+Marion,Households and Housing Units,Households,24662,24634,24643,24585,24617,24547,24424,24300
+Morrow,Households and Housing Units,Households,12993,13062,13536,13997,14618,15057,15404,15752
+Perry,Households and Housing Units,Households,13000,13008,13521,13725,13988,14183,14344,14506
+Pickaway,Households and Housing Units,Households,20017,20258,21289,22497,23803,24996,26134,27272
+Ross,Households and Housing Units,Households,29143,29107,28993,28848,28723,28573,28407,28241
+Union,Households and Housing Units,Households,22599,23277,23792,25977,28280,30447,32547,34647
+15-County Region,Households and Housing Units,Housing Units,1008167,1011753,1062364,1111283,1172037,1219260,1259720,1300181
+10-County Region,Households and Housing Units,Housing Units,910823,914424,964365,1012878,1073063,1119906,1160076,1200248
+Delaware,Households and Housing Units,Housing Units,78155,80219,89768,100840,112970,123892,134210,144527
+Fairfield,Households and Housing Units,Housing Units,62923,63597,66803,70462,74557,78153,81500,84846
+Fayette,Households and Housing Units,Housing Units,12960,12944,13175,13440,13719,13981,14236,14491
+Franklin,Households and Housing Units,Housing Units,567317,566203,595645,620053,651227,674668,694241,713816
+Hocking,Households and Housing Units,Housing Units,13308,13354,13291,13195,13132,13036,12923,12810
+Knox,Households and Housing Units,Housing Units,26346,26401,26929,27426,28128,28595,28945,29295
+Licking,Households and Housing Units,Housing Units,72377,73074,77332,81300,87883,91476,93576,95677
+Logan,Households and Housing Units,Housing Units,23837,23822,23853,24013,24199,24351,24495,24637
+Madison,Households and Housing Units,Housing Units,15969,16175,16940,17795,18735,19579,20372,21166
+Marion,Households and Housing Units,Housing Units,27929,27897,27907,27842,27878,27799,27659,27519
+Morrow,Households and Housing Units,Housing Units,14259,14335,14855,15361,16042,16524,16905,17287
+Perry,Households and Housing Units,Housing Units,15110,15119,15716,15953,16258,16485,16672,16860
+Pickaway,Households and Housing Units,Housing Units,21766,22028,23149,24463,25883,27180,28418,29655
+Ross,Households and Housing Units,Housing Units,32129,32090,31964,31804,31666,31501,31318,31135
+Union,Households and Housing Units,Housing Units,23782,24495,25037,27336,29760,32040,34250,36460
+15-County Region,Population,Population,2421159,2431037,2555315,2676926,2827180,2944699,3045854,3147011
+10-County Region,Population,Population,2205732,2215648,2338387,2459127,2608147,2724853,2825397,2925943
+Delaware,Population,Population,215062,220740,247016,277484,310863,340917,369307,397697
+Fairfield,Population,Population,159357,161064,169183,178449,188820,197928,206404,214880
+Fayette,Population,Population,28939,28906,29419,30011,30634,31220,31790,32360
+Franklin,Population,Population,1324013,1321414,1390127,1447090,1519844,1574551,1620232,1665914
+Hocking,Population,Population,27999,28097,27965,27762,27629,27428,27190,26953
+Knox,Population,Population,62765,62897,64157,65339,67013,68125,68957,69790
+Licking,Population,Population,178680,180401,190915,200710,216962,225833,231017,236202
+Logan,Population,Population,46065,46035,46095,46407,46763,47058,47335,47611
+Madison,Population,Population,43823,44386,46487,48833,51412,53726,55905,58084
+Marion,Population,Population,65363,65291,65314,65160,65246,65059,64732,64405
+Morrow,Population,Population,34964,35151,36425,37666,39338,40519,41454,42389
+Perry,Population,Population,35439,35460,36859,37415,38131,38662,39102,39542
+Pickaway,Population,Population,58628,59333,62355,65891,69716,73212,76545,79877
+Ross,Population,Population,76985,76891,76590,76204,75876,75478,75040,74602
+Union,Population,Population,63077,64971,66408,72505,78933,84983,90844,96705
+15-County Region,Population,Population - 80% Prediction Interval (-),,,-110084,-248816,-448287,-641302,-840786,-1060732
+10-County Region,Population,Population - 80% Prediction Interval (-),,,-102212,-227721,-409881,-582992,-760156,-955447
+Delaware,Population,Population - 80% Prediction Interval (-),,,-8552,-21017,-39647,-57560,-76050,-96536
+Fairfield,Population,Population - 80% Prediction Interval (-),,,-5193,-14345,-27278,-41085,-56093,-72733
+Fayette,Population,Population - 80% Prediction Interval (-),,,-507,-1320,-2394,-3619,-4988,-6501
+Franklin,Population,Population - 80% Prediction Interval (-),,,-56682,-119621,-211208,-295420,-379936,-472848
+Hocking,Population,Population - 80% Prediction Interval (-),,,-843,-2227,-4058,-6133,-8443,-10995
+Knox,Population,Population - 80% Prediction Interval (-),,,-2187,-5767,-10837,-16147,-21866,-28201
+Licking,Population,Population - 80% Prediction Interval (-),,,-14107,-27386,-49304,-65652,-79894,-95558
+Logan,Population,Population - 80% Prediction Interval (-),,,-1224,-3030,-5315,-7902,-10791,-13967
+Madison,Population,Population - 80% Prediction Interval (-),,,-3569,-10217,-19067,-29240,-40644,-53268
+Marion,Population,Population - 80% Prediction Interval (-),,,-1583,-2406,-3301,-3842,-4193,-4509
+Morrow,Population,Population - 80% Prediction Interval (-),,,-1949,-5219,-9849,-14731,-20007,-25853
+Perry,Population,Population - 80% Prediction Interval (-),,,-2098,-4683,-8029,-11690,-15698,-20100
+Pickaway,Population,Population - 80% Prediction Interval (-),,,-4350,-12642,-23712,-36454,-50756,-66592
+Ross,Population,Population - 80% Prediction Interval (-),,,-3200,-9835,-18610,-28966,-40710,-53722
+Union,Population,Population - 80% Prediction Interval (-),,,-4040,-9101,-15678,-22861,-30717,-39349
+15-County Region,Population,Population - 80% Prediction Interval (+),,,41873,139687,240961,401250,600732,820672
+10-County Region,Population,Population - 80% Prediction Interval (+),,,34741,119852,205059,345841,523002,718285
+Delaware,Population,Population - 80% Prediction Interval (+),,,1425,9734,18386,32971,51461,71947
+Fairfield,Population,Population - 80% Prediction Interval (+),,,2521,10092,19235,31777,46785,63424
+Fayette,Population,Population - 80% Prediction Interval (+),,,436,1205,2180,3374,4744,6258
+Franklin,Population,Population - 80% Prediction Interval (+),,,19527,59898,97336,163494,248007,340914
+Hocking,Population,Population - 80% Prediction Interval (+),,,695,1989,3610,5613,7924,10476
+Knox,Population,Population - 80% Prediction Interval (+),,,1007,3888,7275,12025,17745,24078
+Licking,Population,Population - 80% Prediction Interval (+),,,-1603,2454,2238,11212,25454,41117
+Logan,Population,Population - 80% Prediction Interval (+),,,1195,2944,5070,7621,10509,13686
+Madison,Population,Population - 80% Prediction Interval (+),,,3021,9335,17386,27288,38692,51316
+Marion,Population,Population - 80% Prediction Interval (+),,,1015,1491,1560,1820,2171,2487
+Morrow,Population,Population - 80% Prediction Interval (+),,,898,3556,6712,11102,16378,22224
+Perry,Population,Population - 80% Prediction Interval (+),,,1701,4054,6848,10327,14335,18736
+Pickaway,Population,Population - 80% Prediction Interval (+),,,3674,11559,21644,34060,48361,64199
+Ross,Population,Population - 80% Prediction Interval (+),,,3105,9643,18194,28474,40218,53231
+Union,Population,Population - 80% Prediction Interval (+),,,3256,7845,13287,20092,27948,36579
+15-County Region,Population,Population - Confidence Limit (lower),,,2445231,2428110,2378893,2303397,2205068,2086279
+10-County Region,Population,Population - Confidence Limit (lower),,,2236175,2231406,2198266,2141861,2065241,1970496
+Delaware,Population,Population - Confidence Limit (lower),,,238464,256467,271216,283357,293257,301161
+Fairfield,Population,Population - Confidence Limit (lower),,,163990,164104,161542,156843,150311,142147
+Fayette,Population,Population - Confidence Limit (lower),,,28912,28691,28240,27601,26802,25859
+Franklin,Population,Population - Confidence Limit (lower),,,1333445,1327469,1308636,1279131,1240296,1193066
+Hocking,Population,Population - Confidence Limit (lower),,,27122,25535,23571,21295,18747,15958
+Knox,Population,Population - Confidence Limit (lower),,,61970,59572,56176,51978,47091,41589
+Licking,Population,Population - Confidence Limit (lower),,,176808,173324,167658,160181,151123,140644
+Logan,Population,Population - Confidence Limit (lower),,,44871,43377,41448,39156,36544,33644
+Madison,Population,Population - Confidence Limit (lower),,,42918,38616,32345,24486,15261,4816
+Marion,Population,Population - Confidence Limit (lower),,,63731,62754,61945,61217,60539,59896
+Morrow,Population,Population - Confidence Limit (lower),,,34476,32447,29489,25788,21447,16536
+Perry,Population,Population - Confidence Limit (lower),,,34761,32732,30102,26972,23404,19442
+Pickaway,Population,Population - Confidence Limit (lower),,,58005,53249,46004,36758,25789,13285
+Ross,Population,Population - Confidence Limit (lower),,,73390,66369,57266,46512,34330,20880
+Union,Population,Population - Confidence Limit (lower),,,62368,63404,63255,62122,60127,57356
+15-County Region,Population,Population - Confidence Limit (upper),,,2597188,2816613,3068141,3345949,3646586,3967683
+10-County Region,Population,Population - Confidence Limit (upper),,,2373128,2578979,2813206,3070694,3348399,3644228
+Delaware,Population,Population - Confidence Limit (upper),,,248441,287218,329249,373888,420768,469644
+Fairfield,Population,Population - Confidence Limit (upper),,,171704,188541,208055,229705,253189,278304
+Fayette,Population,Population - Confidence Limit (upper),,,29855,31216,32814,34594,36534,38618
+Franklin,Population,Population - Confidence Limit (upper),,,1409654,1506988,1617180,1738045,1868239,2006828
+Hocking,Population,Population - Confidence Limit (upper),,,28660,29751,31239,33041,35114,37429
+Knox,Population,Population - Confidence Limit (upper),,,65164,69227,74288,80150,86702,93868
+Licking,Population,Population - Confidence Limit (upper),,,189312,203164,219200,237045,256471,277319
+Logan,Population,Population - Confidence Limit (upper),,,47290,49351,51833,54679,57844,61297
+Madison,Population,Population - Confidence Limit (upper),,,49508,58168,68798,81014,94597,109400
+Marion,Population,Population - Confidence Limit (upper),,,66329,66651,66806,66879,66903,66892
+Morrow,Population,Population - Confidence Limit (upper),,,37323,41222,46050,51621,57832,64613
+Perry,Population,Population - Confidence Limit (upper),,,38560,41469,44979,48989,53437,58278
+Pickaway,Population,Population - Confidence Limit (upper),,,66029,77450,91360,107272,124906,144076
+Ross,Population,Population - Confidence Limit (upper),,,79695,85847,94070,103952,115258,127833
+Union,Population,Population - Confidence Limit (upper),,,69664,80350,92220,105075,118792,133284
+15-County Region,Population by Age,Population Ages 18 - 64,1507157,1512484,1557967,1608625,1696702,1774942,1850655,1916531
+10-County Region,Population by Age,Population Ages 18 - 64,1378422,1383783,1431994,1484546,1572708,1649937,1724391,1788840
+Delaware,Population by Age,Population Ages 18 - 64,129537,132452,147623,162958,179944,195085,210691,226432
+Fairfield,Population by Age,Population Ages 18 - 64,95575,96598,99312,102543,108078,114186,120539,126510
+Fayette,Population by Age,Population Ages 18 - 64,16976,16948,16999,17272,17603,17905,18289,18699
+Franklin,Population by Age,Population Ages 18 - 64,846386,844704,871039,897086,945272,985153,1022277,1051047
+Hocking,Population by Age,Population Ages 18 - 64,16420,16481,15903,15291,15073,14936,14975,15040
+Knox,Population by Age,Population Ages 18 - 64,35971,36048,35389,35251,35892,36799,37802,38702
+Licking,Population by Age,Population Ages 18 - 64,106797,107825,111273,114735,123803,130275,135753,140179
+Logan,Population by Age,Population Ages 18 - 64,26898,26883,26159,25765,25825,26082,26530,27062
+Madison,Population by Age,Population Ages 18 - 64,27804,28164,28927,29783,31056,32561,34078,35517
+Marion,Population by Age,Population Ages 18 - 64,39419,39321,38144,37481,38061,38725,39032,39029
+Morrow,Population by Age,Population Ages 18 - 64,20820,20928,21202,21385,21937,22481,23148,23961
+Perry,Population by Age,Population Ages 18 - 64,21118,21121,21180,21008,21171,21557,21997,22374
+Pickaway,Population by Age,Population Ages 18 - 64,36487,36927,38391,40177,42345,44691,46825,48981
+Ross,Population by Age,Population Ages 18 - 64,47323,47268,45732,44743,44322,44525,44473,44516
+Union,Population by Age,Population Ages 18 - 64,39626,40816,40694,43147,46320,49981,54246,58482
+15-County Region,Population by Age,Population Ages 65 and older,351697,353200,409721,458281,492688,507827,515282,530804
+10-County Region,Population by Age,Population Ages 65 and older,312085,313570,365425,410514,443520,458806,467085,483627
+Delaware,Population by Age,Population Ages 65 and older,31652,32363,41399,51830,62263,70999,78056,85365
+Fairfield,Population by Age,Population Ages 65 and older,26267,26549,29923,33389,35360,36021,36084,36588
+Fayette,Population by Age,Population Ages 65 and older,5349,5358,5803,6229,6414,6459,6410,6371
+Franklin,Population by Age,Population Ages 65 and older,167805,167472,194235,213954,226281,229776,231428,239292
+Hocking,Population by Age,Population Ages 65 and older,5583,5600,6166,6600,6758,6734,6541,6302
+Knox,Population by Age,Population Ages 65 and older,11852,11874,13486,14535,14983,14759,14299,13956
+Licking,Population by Age,Population Ages 65 and older,30747,31043,35849,40110,43686,44072,43053,43083
+Logan,Population by Age,Population Ages 65 and older,8826,8818,9797,10634,10912,10959,10865,10717
+Madison,Population by Age,Population Ages 65 and older,7161,7252,8561,9946,10957,11654,11941,12267
+Marion,Population by Age,Population Ages 65 and older,12173,12185,13390,14048,14016,13488,12749,12197
+Morrow,Population by Age,Population Ages 65 and older,6478,6516,7780,8772,9556,10047,10295,10476
+Perry,Population by Age,Population Ages 65 and older,6226,6244,7340,8061,8545,8585,8510,8468
+Pickaway,Population by Age,Population Ages 65 and older,9641,9757,11171,12567,13797,14623,15228,15715
+Ross,Population by Age,Population Ages 65 and older,13628,13610,15190,16243,16539,16284,15871,15319
+Union,Population by Age,Population Ages 65 and older,8309,8559,9631,11363,12621,13367,13952,14688
+15-County Region,Population by Age,Population Ages under 18,562305,565353,587627,610020,637790,661930,679917,699676
+10-County Region,Population by Age,Population Ages under 18,515225,518295,540968,564067,591919,616110,633921,653476
+Delaware,Population by Age,Population Ages under 18,53873,55925,57994,62696,68656,74833,80560,85900
+Fairfield,Population by Age,Population Ages under 18,37515,37917,39948,42517,45382,47721,49781,51782
+Fayette,Population by Age,Population Ages under 18,6614,6600,6617,6510,6617,6856,7091,7290
+Franklin,Population by Age,Population Ages under 18,309822,309238,324853,336050,348291,359622,366527,375575
+Hocking,Population by Age,Population Ages under 18,5996,6016,5896,5871,5798,5758,5674,5611
+Knox,Population by Age,Population Ages under 18,14942,14975,15282,15553,16138,16567,16856,17132
+Licking,Population by Age,Population Ages under 18,41136,41533,43793,45865,49473,51486,52211,52940
+Logan,Population by Age,Population Ages under 18,10341,10334,10139,10008,10026,10017,9940,9832
+Madison,Population by Age,Population Ages under 18,8858,8970,8999,9104,9399,9511,9886,10300
+Marion,Population by Age,Population Ages under 18,13771,13785,13780,13631,13169,12846,12951,13179
+Morrow,Population by Age,Population Ages under 18,7666,7707,7443,7509,7845,7991,8011,7952
+Perry,Population by Age,Population Ages under 18,8095,8095,8339,8346,8415,8520,8595,8700
+Pickaway,Population by Age,Population Ages under 18,12500,12649,12793,13147,13574,13898,14492,15181
+Ross,Population by Age,Population Ages under 18,16034,16013,15668,15218,15015,14669,14696,14767
+Union,Population by Age,Population Ages under 18,15142,15596,16083,17995,19992,21635,22646,23535
+15-County Region,Population in Households and Group Quarters,Group Quarters Population,68815,69119,71968,74909,78522,81365,83824,86283
+10-County Region,Population in Households and Group Quarters,Group Quarters Population,61319,61630,64485,67442,71066,73927,76412,78894
+Delaware,Population in Households and Group Quarters,Group Quarters Population,2638,2707,3030,3403,3813,4182,4530,4878
+Fairfield,Population in Households and Group Quarters,Group Quarters Population,3038,3071,3225,3402,3600,3773,3935,4097
+Fayette,Population in Households and Group Quarters,Group Quarters Population,321,320,326,333,339,346,352,359
+Franklin,Population in Households and Group Quarters,Group Quarters Population,28794,28737,30231,31470,33052,34242,35236,36229
+Hocking,Population in Households and Group Quarters,Group Quarters Population,472,473,471,468,466,462,458,454
+Knox,Population in Households and Group Quarters,Group Quarters Population,3737,3745,3820,3890,3990,4056,4106,4155
+Licking,Population in Households and Group Quarters,Group Quarters Population,3959,3998,4231,4448,4808,5004,5119,5234
+Logan,Population in Households and Group Quarters,Group Quarters Population,489,489,489,493,496,500,502,505
+Madison,Population in Households and Group Quarters,Group Quarters Population,5199,5265,5515,5793,6099,6373,6632,6890
+Marion,Population in Households and Group Quarters,Group Quarters Population,5682,5676,5678,5664,5672,5656,5627,5599
+Morrow,Population in Households and Group Quarters,Group Quarters Population,274,275,285,295,308,317,324,332
+Perry,Population in Households and Group Quarters,Group Quarters Population,338,338,351,357,364,369,373,377
+Pickaway,Population in Households and Group Quarters,Group Quarters Population,4582,4637,4874,5150,5449,5722,5983,6243
+Ross,Population in Households and Group Quarters,Group Quarters Population,5876,5869,5846,5816,5791,5761,5727,5694
+Union,Population in Households and Group Quarters,Group Quarters Population,3416,3519,3596,3927,4275,4602,4920,5237
+15-County Region,Population in Households and Group Quarters,Household Population,2352344,2361918,2483347,2602017,2748658,2863334,2962030,3060728
+10-County Region,Population in Households and Group Quarters,Household Population,2144413,2154018,2273902,2391685,2537081,2650926,2748985,2847049
+Delaware,Population in Households and Group Quarters,Household Population,212424,218033,243986,274081,307050,336735,364777,392819
+Fairfield,Population in Households and Group Quarters,Household Population,156319,157993,165958,175047,185220,194155,202469,210783
+Fayette,Population in Households and Group Quarters,Household Population,28618,28586,29093,29678,30295,30874,31438,32001
+Franklin,Population in Households and Group Quarters,Household Population,1295219,1292677,1359896,1415620,1486792,1540309,1584996,1629685
+Hocking,Population in Households and Group Quarters,Household Population,27527,27624,27494,27294,27163,26966,26732,26499
+Knox,Population in Households and Group Quarters,Household Population,59028,59152,60337,61449,63023,64069,64851,65635
+Licking,Population in Households and Group Quarters,Household Population,174721,176403,186684,196262,212154,220829,225898,230968
+Logan,Population in Households and Group Quarters,Household Population,45576,45546,45606,45914,46267,46558,46833,47106
+Madison,Population in Households and Group Quarters,Household Population,38624,39121,40972,43040,45313,47353,49273,51194
+Marion,Population in Households and Group Quarters,Household Population,59681,59615,59636,59496,59574,59403,59105,58806
+Morrow,Population in Households and Group Quarters,Household Population,34690,34876,36140,37371,39030,40202,41130,42057
+Perry,Population in Households and Group Quarters,Household Population,35101,35122,36508,37058,37767,38293,38729,39165
+Pickaway,Population in Households and Group Quarters,Household Population,54046,54696,57481,60741,64267,67490,70562,73634
+Ross,Population in Households and Group Quarters,Household Population,71109,71022,70744,70388,70085,69717,69313,68908
+Union,Population in Households and Group Quarters,Household Population,59661,61452,62812,68578,74658,80381,85924,91468
+15-County Region,Population in Households and Group Quarters,Household Population 18 - 64,1449212,1454277,1497375,1545555,1630591,1706439,1780072,1843869
+10-County Region,Population in Households and Group Quarters,Household Population 18 - 64,1326415,1331509,1377318,1427369,1512472,1587281,1659628,1721970
+Delaware,Population in Households and Group Quarters,Household Population 18 - 64,127391,130250,145158,160190,176842,191683,207006,222463
+Fairfield,Population in Households and Group Quarters,Household Population 18 - 64,93480,94481,97089,100198,105596,111585,117826,123686
+Fayette,Population in Households and Group Quarters,Household Population 18 - 64,16906,16878,16928,17200,17529,17830,18212,18621
+Franklin,Population in Households and Group Quarters,Household Population 18 - 64,822102,820468,845543,870544,917397,956274,992560,1020492
+Hocking,Population in Households and Group Quarters,Household Population 18 - 64,16144,16204,15628,15017,14800,14666,14707,14774
+Knox,Population in Households and Group Quarters,Household Population 18 - 64,32781,32851,32129,31931,32487,33338,34297,35155
+Licking,Population in Households and Group Quarters,Household Population 18 - 64,103561,104557,107815,111099,119874,126185,131569,135901
+Logan,Population in Households and Group Quarters,Household Population 18 - 64,26772,26757,26033,25638,25697,25954,26401,26932
+Madison,Population in Households and Group Quarters,Household Population 18 - 64,22904,23202,23729,24323,25308,26555,27828,29023
+Marion,Population in Households and Group Quarters,Household Population 18 - 64,34460,34367,33188,32538,33111,33789,34121,34142
+Morrow,Population in Households and Group Quarters,Household Population 18 - 64,20707,20815,21085,21264,21810,22350,23015,23824
+Perry,Population in Households and Group Quarters,Household Population 18 - 64,20977,20980,21033,20859,21019,21403,21841,22216
+Pickaway,Population in Households and Group Quarters,Household Population 18 - 64,32478,32870,34126,35671,37577,39685,41590,43518
+Ross,Population in Households and Group Quarters,Household Population 18 - 64,41998,41949,40435,39472,39074,39305,39283,39356
+Union,Population in Households and Group Quarters,Household Population 18 - 64,36551,37648,37456,39611,42470,45837,49816,53766
+15-County Region,Population in Households and Group Quarters,Household Population 65 and Older,341985,343454,399572,447734,481644,496398,503530,518728
+10-County Region,Population in Households and Group Quarters,Household Population 65 and Older,303790,305239,356702,401400,433916,448826,456784,473007
+Delaware,Population in Households and Group Quarters,Household Population 65 and Older,31347,32050,41049,51437,61823,70516,77533,84802
+Fairfield,Population in Households and Group Quarters,Household Population 65 and Older,25399,25671,29001,32417,34331,34943,34960,35417
+Fayette,Population in Households and Group Quarters,Household Population 65 and Older,5098,5108,5548,5968,6149,6188,6135,6090
+Franklin,Population in Households and Group Quarters,Household Population 65 and Older,163681,163356,189905,209447,221547,224872,226381,234103
+Hocking,Population in Households and Group Quarters,Household Population 65 and Older,5387,5404,5970,6406,6565,6542,6351,6114
+Knox,Population in Households and Group Quarters,Household Population 65 and Older,11379,11400,13002,14042,14477,14245,13779,13430
+Licking,Population in Households and Group Quarters,Household Population 65 and Older,30031,30320,35084,39306,42816,43167,42127,42136
+Logan,Population in Households and Group Quarters,Household Population 65 and Older,8529,8521,9500,10335,10611,10655,10560,10410
+Madison,Population in Households and Group Quarters,Household Population 65 and Older,6862,6949,8244,9613,10606,11287,11559,11871
+Marion,Population in Households and Group Quarters,Household Population 65 and Older,11495,11508,12713,13372,13339,12813,12078,11529
+Morrow,Population in Households and Group Quarters,Household Population 65 and Older,6319,6356,7614,8600,9377,9863,10106,10283
+Perry,Population in Households and Group Quarters,Household Population 65 and Older,6029,6047,7136,7853,8333,8370,8293,8249
+Pickaway,Population in Households and Group Quarters,Household Population 65 and Older,9266,9377,10772,12145,13351,14154,14738,15204
+Ross,Population in Households and Group Quarters,Household Population 65 and Older,13152,13135,14716,15772,16070,15817,15407,14858
+Union,Population in Households and Group Quarters,Household Population 65 and Older,8011,8252,9318,11021,12249,12966,13523,14232
+15-County Region,Population in Households and Group Quarters,Household Population Under 18,561147,564187,586400,608728,636423,660497,678428,698131
+10-County Region,Population in Households and Group Quarters,Household Population Under 18,514208,517270,539882,562916,590693,614819,632573,652072
+Delaware,Population in Households and Group Quarters,Household Population Under 18,53686,55733,57779,62454,68385,74536,80238,85554
+Fairfield,Population in Households and Group Quarters,Household Population Under 18,37440,37841,39868,42432,45293,47627,49683,51680
+Fayette,Population in Households and Group Quarters,Household Population Under 18,6614,6600,6617,6510,6617,6856,7091,7290
+Franklin,Population in Households and Group Quarters,Household Population Under 18,309436,308853,324448,335629,347848,359163,366055,375090
+Hocking,Population in Households and Group Quarters,Household Population Under 18,5996,6016,5896,5871,5798,5758,5674,5611
+Knox,Population in Households and Group Quarters,Household Population Under 18,14868,14901,15206,15476,16059,16486,16775,17050
+Licking,Population in Households and Group Quarters,Household Population Under 18,41129,41526,43785,45857,49464,51477,52202,52931
+Logan,Population in Households and Group Quarters,Household Population Under 18,10275,10268,10073,9941,9959,9949,9872,9764
+Madison,Population in Households and Group Quarters,Household Population Under 18,8858,8970,8999,9104,9399,9511,9886,10300
+Marion,Population in Households and Group Quarters,Household Population Under 18,13726,13740,13735,13586,13124,12801,12906,13135
+Morrow,Population in Households and Group Quarters,Household Population Under 18,7664,7705,7441,7507,7843,7989,8009,7950
+Perry,Population in Households and Group Quarters,Household Population Under 18,8095,8095,8339,8346,8415,8520,8595,8700
+Pickaway,Population in Households and Group Quarters,Household Population Under 18,12302,12449,12583,12925,13339,13651,14234,14912
+Ross,Population in Households and Group Quarters,Household Population Under 18,15959,15938,15593,15144,14941,14595,14623,14694
+Union,Population in Households and Group Quarters,Household Population Under 18,15099,15552,16038,17946,19939,21578,22585,23470
+15-County Region,Residential Labor Force,Labor Force,1262537,1273199,1315852,1365896,1438998,1504356,1563719,1618868
+10-County Region,Residential Labor Force,Labor Force,1165381,1176264,1219799,1270702,1343800,1408645,1467146,1521445
+Delaware,Residential Labor Force,Labor Force,114891,118150,131187,145617,160909,175061,188910,203502
+Fairfield,Residential Labor Force,Labor Force,79710,80424,83280,86584,91241,96111,101063,105823
+Fayette,Residential Labor Force,Labor Force,13086,13121,13259,13501,13711,13907,14168,14477
+Franklin,Residential Labor Force,Labor Force,726058,731431,752920,778090,816566,849882,878309,902851
+Hocking,Residential Labor Force,Labor Force,13142,13073,12799,12451,12299,12215,12199,12149
+Knox,Residential Labor Force,Labor Force,30473,30456,30391,30386,30962,31618,32388,33080
+Licking,Residential Labor Force,Labor Force,89407,90319,93968,97617,105362,110546,114498,117974
+Logan,Residential Labor Force,Labor Force,22389,22310,21993,21829,21858,22078,22455,22802
+Madison,Residential Labor Force,Labor Force,19956,20158,20969,21735,22718,23731,24705,25716
+Marion,Residential Labor Force,Labor Force,27947,27820,27312,27117,27521,27825,27821,27631
+Morrow,Residential Labor Force,Labor Force,18036,18136,18538,18719,19232,19721,20253,20862
+Perry,Residential Labor Force,Labor Force,15812,15859,16047,15992,16126,16344,16612,16899
+Pickaway,Residential Labor Force,Labor Force,26021,26311,27469,28856,30523,32143,33647,35016
+Ross,Residential Labor Force,Labor Force,32727,32572,31955,31421,31204,31167,31139,31096
+Union,Residential Labor Force,Labor Force,32882,33059,33765,35981,38766,42007,45552,48990
+15-County Region,Residential Labor Force,Workers,1205278,1215508,1256420,1304398,1374693,1437357,1494364,1547411
+10-County Region,Residential Labor Force,Workers,1113293,1123734,1165489,1214278,1284570,1346731,1402922,1455160
+Delaware,Residential Labor Force,Workers,111824,115004,127725,141809,156745,170552,184044,198235
+Fairfield,Residential Labor Force,Workers,76347,77027,79745,82920,87392,92057,96794,101342
+Fayette,Residential Labor Force,Workers,12431,12463,12592,12824,13020,13220,13472,13763
+Franklin,Residential Labor Force,Workers,690361,695458,715847,739679,776482,808149,835226,858616
+Hocking,Residential Labor Force,Workers,12643,12579,12322,11987,11841,11763,11745,11694
+Knox,Residential Labor Force,Workers,29158,29141,29069,29056,29603,30223,30952,31611
+Licking,Residential Labor Force,Workers,85903,86778,90278,93771,101207,106187,110000,113356
+Logan,Residential Labor Force,Workers,21388,21315,21023,20870,20902,21108,21464,21792
+Madison,Residential Labor Force,Workers,19186,19382,20164,20905,21854,22839,23792,24772
+Marion,Residential Labor Force,Workers,26201,26078,25587,25379,25739,26024,26034,25881
+Morrow,Residential Labor Force,Workers,17535,17633,18024,18220,18723,19188,19708,20305
+Perry,Residential Labor Force,Workers,14855,14898,15070,15026,15163,15361,15608,15878
+Pickaway,Residential Labor Force,Workers,24858,25137,26252,27579,29175,30746,32194,33519
+Ross,Residential Labor Force,Workers,30668,30519,29924,29413,29197,29174,29153,29124
+Union,Residential Labor Force,Workers,31920,32096,32798,34960,37650,40766,44178,47523

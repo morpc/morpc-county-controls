@@ -1,0 +1,42 @@
+fields:
+  - name: COUNTY
+    type: string
+    description: County name
+  - name: CATEGORY
+    type: string
+    description: Name of category to which the variable specified in the VARIABLE
+      field belongs.
+  - name: VARIABLE
+    type: string
+    description: Name of the variable that the record describes
+  - name: '2020'
+    type: integer
+    description: Value of the specified variable as of 2020
+  - name: '2021'
+    type: integer
+    description: Value of the specified variable as of 2021
+  - name: '2025'
+    type: integer
+    description: Value of the specified variable as of 2025
+  - name: '2030'
+    type: integer
+    description: Value of the specified variable as of 2030
+  - name: '2035'
+    type: integer
+    description: Value of the specified variable as of 2035
+  - name: '2040'
+    type: integer
+    description: Value of the specified variable as of 2040
+  - name: '2045'
+    type: integer
+    description: Value of the specified variable as of 2045
+  - name: '2050'
+    type: integer
+    description: Value of the specified variable as of 2050
+missingValues:
+  - ''
+primaryKey:
+  - COUNTY
+  - CATEGORY
+  - VARIABLE
+  

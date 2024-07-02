@@ -1,0 +1,13 @@
+name: countycontrols_web_alldata
+type: table
+title: MORPC County-Level Forecasts, 2021-2050 MTP
+description: County-level forecasts of several demographic variables for five-year intervals between 2025 and 2050.  Also includes baseline estimates for 2020 and 2021.  This dataset is also known as the "county control totals" or "county controls" as the values are used to control (constrain) forecasts for sub-county geographies and demographic subgroups.
+profile: tabular-data-resource
+path: CountyControls_WEB_AllData.csv
+scheme: file
+format: csv
+mediatype: text/csv
+encoding: utf-8
+hash: 074bc54ab842c2aa98a472e165f43bfb
+bytes: 39936
+schema: CountyControls_WEB_AllData.schema.yaml
