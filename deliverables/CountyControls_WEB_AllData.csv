@@ -1,6 +1,9 @@
-COUNTY,CATEGORY,VARIABLE,2020,2021,2025,2030,2035,2040,2045,2050
+﻿COUNTY,CATEGORY,VARIABLE,2020,2021,2025,2030,2035,2040,2045,2050
 15-County Region,Employment,Industrial Employment,271473,274455,286375,298045,314195,327874,340388,351959
 10-County Region,Employment,Industrial Employment,247237,250283,262461,274305,290443,303964,316226,327549
+CORPO Region,Employment,Industrial Employment,59045,59281,60221,62174,65130,68382,71687,74852
+Columbus MSA,Employment,Industrial Employment,234481,237581,249968,261854,277735,291011,303107,314334
+CEDS Region,Employment,Industrial Employment,255588,258604,270663,282445,298594,312195,324596,336048
 Delaware,Employment,Industrial Employment,17983,18473,20432,22644,25026,27276,29472,31778
 Fairfield,Employment,Industrial Employment,11631,11719,12071,12527,13191,13902,14625,15317
 Fayette,Employment,Industrial Employment,4383,4394,4439,4520,4588,4659,4747,4851
@@ -18,6 +21,9 @@ Ross,Employment,Industrial Employment,7829,7791,7639,7507,7451,7446,7442,7434
 Union,Employment,Industrial Employment,14970,15043,15331,16334,17584,19042,20637,22203
 15-County Region,Employment,Office Employment,519085,523470,541012,562050,592725,620000,644439,666893
 10-County Region,Employment,Office Employment,496438,500892,518705,539969,570671,597837,622100,644381
+CORPO Region,Employment,Office Employment,52993,53215,54103,55903,58612,61589,64605,67488
+Columbus MSA,Employment,Office Employment,487409,491906,509892,531170,561664,588640,612792,635020
+CEDS Region,Employment,Office Employment,501639,506075,523814,545040,575748,602965,627314,649675
 Delaware,Employment,Office Employment,45294,46527,51459,57034,63032,68700,74231,80036
 Fairfield,Employment,Office Employment,14629,14739,15180,15755,16588,17484,18392,19264
 Fayette,Employment,Office Employment,2972,2979,3009,3064,3111,3159,3219,3289
@@ -35,6 +41,9 @@ Ross,Employment,Office Employment,10037,9988,9794,9623,9552,9545,9540,9531
 Union,Employment,Office Employment,12670,12732,12976,13823,14883,16116,17468,18792
 15-County Region,Employment,Other Employment,208181,209500,214773,221866,233025,243141,252167,260363
 10-County Region,Employment,Other Employment,194454,195816,201264,208500,219675,229730,238655,246750
+CORPO Region,Employment,Other Employment,27963,28057,28434,29182,30429,31785,33151,34438
+Columbus MSA,Employment,Other Employment,187308,188696,194251,201497,212513,222410,231216,239231
+CEDS Region,Employment,Other Employment,197517,198868,204272,211485,222666,232750,241726,249869
 Delaware,Employment,Other Employment,11835,12156,13444,14900,16467,17948,19393,20909
 Fairfield,Employment,Other Employment,8328,8391,8642,8969,9443,9952,10469,10966
 Fayette,Employment,Other Employment,1721,1726,1743,1774,1801,1829,1865,1905
@@ -52,6 +61,9 @@ Ross,Employment,Other Employment,6205,6175,6053,5949,5905,5902,5897,5892
 Union,Employment,Other Employment,3980,3999,4076,4343,4675,5063,5488,5903
 15-County Region,Employment,Retail Goods Employment,121332,122238,125852,130610,137666,144153,150082,155647
 10-County Region,Employment,Retail Goods Employment,110543,111475,115203,120038,127089,133513,139345,144811
+CORPO Region,Employment,Retail Goods Employment,21605,21694,22049,22706,23737,24864,26000,27084
+Columbus MSA,Employment,Retail Goods Employment,106848,107796,111586,116418,123381,129720,135497,140933
+CEDS Region,Employment,Retail Goods Employment,112902,113826,117519,122337,129390,135838,141709,147211
 Delaware,Employment,Retail Goods Employment,14066,14449,15980,17710,19573,21332,23050,24853
 Fairfield,Employment,Retail Goods Employment,7878,7937,8174,8483,8932,9414,9903,10373
 Fayette,Employment,Retail Goods Employment,2435,2442,2467,2512,2550,2589,2638,2695
@@ -69,6 +81,9 @@ Ross,Employment,Retail Goods Employment,4093,4073,3991,3923,3894,3891,3889,3885
 Union,Employment,Retail Goods Employment,3338,3354,3418,3641,3919,4244,4600,4948
 15-County Region,Employment,Retail Services Employment,144787,145952,150606,151359,165292,173250,180496,187279
 10-County Region,Employment,Retail Services Employment,135866,137058,141820,142583,156597,164511,171679,178384
+CORPO Region,Employment,Retail Services Employment,21646,21745,22134,22210,23914,25092,26285,27425
+Columbus MSA,Employment,Retail Services Employment,133067,134271,139081,139842,153763,161598,168717,175393
+CEDS Region,Employment,Retail Services Employment,138249,139432,144160,144921,158922,166858,174067,180808
 Delaware,Employment,Retail Services Employment,17518,17995,19903,20174,24379,26571,28710,30955
 Fairfield,Employment,Retail Services Employment,9043,9111,9385,9424,10255,10808,11370,11909
 Fayette,Employment,Retail Services Employment,1337,1340,1353,1355,1398,1421,1447,1479
@@ -86,6 +101,9 @@ Ross,Employment,Retail Services Employment,3033,3018,2958,2953,2886,2883,2882,28
 Union,Employment,Retail Services Employment,3483,3499,3565,3584,4090,4429,4800,5164
 15-County Region,Employment,Total Employment,1264858,1275615,1318618,1363930,1442903,1508418,1567572,1622141
 10-County Region,Employment,Total Employment,1184538,1195524,1239453,1285395,1364475,1429555,1488005,1541875
+CORPO Region,Employment,Total Employment,183252,183992,186941,192175,201822,211712,221728,231287
+Columbus MSA,Employment,Total Employment,1149113,1160250,1204778,1250781,1329056,1393379,1451329,1504911
+CEDS Region,Employment,Total Employment,1205895,1216805,1260428,1306228,1385320,1450606,1509412,1563611
 Delaware,Employment,Total Employment,106696,109600,121218,132462,148477,161827,174856,188531
 Fairfield,Employment,Total Employment,51509,51897,53452,55158,58409,61560,64759,67829
 Fayette,Employment,Total Employment,12848,12881,13011,13225,13448,13657,13916,14219
@@ -103,6 +121,9 @@ Ross,Employment,Total Employment,31197,31045,30435,29955,29688,29667,29650,29622
 Union,Employment,Total Employment,38441,38627,39366,41725,45151,48894,52993,57010
 15-County Region,Households and Housing Units,Households,928223,931608,978700,1024320,1080878,1124934,1162738,1200544
 10-County Region,Households and Housing Units,Households,843872,847271,893782,939056,995127,1038859,1076417,1113978
+CORPO Region,Households and Housing Units,Households,176878,178704,184886,193311,202867,211130,218743,226357
+Columbus MSA,Households and Housing Units,Households,820208,823634,870125,915136,970760,1014260,1051694,1089133
+CEDS Region,Households and Housing Units,Households,862783,866170,912706,958107,1014325,1058178,1095850,1133524
 Delaware,Households and Housing Units,Households,74797,76772,85911,96507,108116,118569,128443,138317
 Fairfield,Households and Housing Units,Households,58328,58953,61925,65316,69112,72446,75548,78650
 Fayette,Households and Housing Units,Households,11875,11861,12072,12315,12571,12811,13045,13278
@@ -120,6 +141,9 @@ Ross,Households and Housing Units,Households,29143,29107,28993,28848,28723,28573
 Union,Households and Housing Units,Households,22599,23277,23792,25977,28280,30447,32547,34647
 15-County Region,Households and Housing Units,Housing Units,1008167,1011753,1062364,1111283,1172037,1219260,1259720,1300181
 10-County Region,Households and Housing Units,Housing Units,910823,914424,964365,1012878,1073063,1119906,1160076,1200248
+CORPO Region,Households and Housing Units,Housing Units,192974,194928,201620,210685,220983,229870,238049,246228
+Columbus MSA,Households and Housing Units,Housing Units,884966,888599,938536,986758,1046447,1093033,1133067,1173104
+CEDS Region,Households and Housing Units,Housing Units,934660,938246,988218,1036891,1097262,1144257,1184571,1224885
 Delaware,Households and Housing Units,Housing Units,78155,80219,89768,100840,112970,123892,134210,144527
 Fairfield,Households and Housing Units,Housing Units,62923,63597,66803,70462,74557,78153,81500,84846
 Fayette,Households and Housing Units,Housing Units,12960,12944,13175,13440,13719,13981,14236,14491
@@ -137,6 +161,9 @@ Ross,Households and Housing Units,Housing Units,32129,32090,31964,31804,31666,31
 Union,Households and Housing Units,Housing Units,23782,24495,25037,27336,29760,32040,34250,36460
 15-County Region,Population,Population,2421159,2431037,2555315,2676926,2827180,2944699,3045854,3147011
 10-County Region,Population,Population,2205732,2215648,2338387,2459127,2608147,2724853,2825397,2925943
+CORPO Region,Population,Population,487977,493093,510329,533843,560478,583552,604841,626130
+Columbus MSA,Population,Population,2141042,2151017,2273740,2393805,2541648,2657759,2758000,2858243
+CEDS Region,Population,Population,2251797,2261683,2384482,2505534,2654910,2771911,2872732,2973554
 Delaware,Population,Population,215062,220740,247016,277484,310863,340917,369307,397697
 Fairfield,Population,Population,159357,161064,169183,178449,188820,197928,206404,214880
 Fayette,Population,Population,28939,28906,29419,30011,30634,31220,31790,32360
@@ -154,6 +181,9 @@ Ross,Population,Population,76985,76891,76590,76204,75876,75478,75040,74602
 Union,Population,Population,63077,64971,66408,72505,78933,84983,90844,96705
 15-County Region,Population,Population - 80% Prediction Interval (-),,,-110084,-248816,-448287,-641302,-840786,-1060732
 10-County Region,Population,Population - 80% Prediction Interval (-),,,-102212,-227721,-409881,-582992,-760156,-955447
+CORPO Region,Population,Population - 80% Prediction Interval (-),,,-22871,-59697,-109722,-164360,-224276,-290505
+Columbus MSA,Population,Population - 80% Prediction Interval (-),,,-101383,-226458,-407830,-580826,-758238,-953832
+CEDS Region,Population,Population - 80% Prediction Interval (-),,,-103436,-230751,-415196,-590894,-770947,-969414
 Delaware,Population,Population - 80% Prediction Interval (-),,,-8552,-21017,-39647,-57560,-76050,-96536
 Fairfield,Population,Population - 80% Prediction Interval (-),,,-5193,-14345,-27278,-41085,-56093,-72733
 Fayette,Population,Population - 80% Prediction Interval (-),,,-507,-1320,-2394,-3619,-4988,-6501
@@ -171,6 +201,9 @@ Ross,Population,Population - 80% Prediction Interval (-),,,-3200,-9835,-18610,-2
 Union,Population,Population - 80% Prediction Interval (-),,,-4040,-9101,-15678,-22861,-30717,-39349
 15-County Region,Population,Population - 80% Prediction Interval (+),,,41873,139687,240961,401250,600732,820672
 10-County Region,Population,Population - 80% Prediction Interval (+),,,34741,119852,205059,345841,523002,718285
+CORPO Region,Population,Population - 80% Prediction Interval (+),,,15392,47766,87099,138164,198080,264307
+Columbus MSA,Population,Population - 80% Prediction Interval (+),,,35115,120516,206682,347936,525345,720932
+CEDS Region,Population,Population - 80% Prediction Interval (+),,,35936,122796,210129,353462,533511,731971
 Delaware,Population,Population - 80% Prediction Interval (+),,,1425,9734,18386,32971,51461,71947
 Fairfield,Population,Population - 80% Prediction Interval (+),,,2521,10092,19235,31777,46785,63424
 Fayette,Population,Population - 80% Prediction Interval (+),,,436,1205,2180,3374,4744,6258
@@ -188,6 +221,9 @@ Ross,Population,Population - 80% Prediction Interval (+),,,3105,9643,18194,28474
 Union,Population,Population - 80% Prediction Interval (+),,,3256,7845,13287,20092,27948,36579
 15-County Region,Population,Population - Confidence Limit (lower),,,2445231,2428110,2378893,2303397,2205068,2086279
 10-County Region,Population,Population - Confidence Limit (lower),,,2236175,2231406,2198266,2141861,2065241,1970496
+CORPO Region,Population,Population - Confidence Limit (lower),,,487458,474146,450756,419192,380565,335625
+Columbus MSA,Population,Population - Confidence Limit (lower),,,2172357,2167347,2133818,2076933,1999762,1904411
+CEDS Region,Population,Population - Confidence Limit (lower),,,2281046,2274783,2239714,2181017,2101785,2004140
 Delaware,Population,Population - Confidence Limit (lower),,,238464,256467,271216,283357,293257,301161
 Fairfield,Population,Population - Confidence Limit (lower),,,163990,164104,161542,156843,150311,142147
 Fayette,Population,Population - Confidence Limit (lower),,,28912,28691,28240,27601,26802,25859
@@ -205,6 +241,9 @@ Ross,Population,Population - Confidence Limit (lower),,,73390,66369,57266,46512,
 Union,Population,Population - Confidence Limit (lower),,,62368,63404,63255,62122,60127,57356
 15-County Region,Population,Population - Confidence Limit (upper),,,2597188,2816613,3068141,3345949,3646586,3967683
 10-County Region,Population,Population - Confidence Limit (upper),,,2373128,2578979,2813206,3070694,3348399,3644228
+CORPO Region,Population,Population - Confidence Limit (upper),,,525721,581609,647577,721716,802921,890437
+Columbus MSA,Population,Population - Confidence Limit (upper),,,2308855,2514321,2748330,3005695,3283345,3579175
+CEDS Region,Population,Population - Confidence Limit (upper),,,2420418,2628330,2865039,3125373,3406243,3705525
 Delaware,Population,Population - Confidence Limit (upper),,,248441,287218,329249,373888,420768,469644
 Fairfield,Population,Population - Confidence Limit (upper),,,171704,188541,208055,229705,253189,278304
 Fayette,Population,Population - Confidence Limit (upper),,,29855,31216,32814,34594,36534,38618
@@ -222,6 +261,9 @@ Ross,Population,Population - Confidence Limit (upper),,,79695,85847,94070,103952
 Union,Population,Population - Confidence Limit (upper),,,69664,80350,92220,105075,118792,133284
 15-County Region,Population by Age,Population Ages 18 - 64,1507157,1512484,1557967,1608625,1696702,1774942,1850655,1916531
 10-County Region,Population by Age,Population Ages 18 - 64,1378422,1383783,1431994,1484546,1572708,1649937,1724391,1788840
+CORPO Region,Population by Age,Population Ages 18 - 64,295702,298802,302059,309767,323689,339424,355670,371182
+Columbus MSA,Population by Age,Population Ages 18 - 64,1340570,1346016,1395544,1448113,1534999,1610906,1684529,1748523
+CEDS Region,Population by Age,Population Ages 18 - 64,1405320,1410666,1458153,1510311,1598533,1676019,1750921,1815902
 Delaware,Population by Age,Population Ages 18 - 64,129537,132452,147623,162958,179944,195085,210691,226432
 Fairfield,Population by Age,Population Ages 18 - 64,95575,96598,99312,102543,108078,114186,120539,126510
 Fayette,Population by Age,Population Ages 18 - 64,16976,16948,16999,17272,17603,17905,18289,18699
@@ -239,6 +281,9 @@ Ross,Population by Age,Population Ages 18 - 64,47323,47268,45732,44743,44322,445
 Union,Population by Age,Population Ages 18 - 64,39626,40816,40694,43147,46320,49981,54246,58482
 15-County Region,Population by Age,Population Ages 65 and older,351697,353200,409721,458281,492688,507827,515282,530804
 10-County Region,Population by Age,Population Ages 65 and older,312085,313570,365425,410514,443520,458806,467085,483627
+CORPO Region,Population by Age,Population Ages 65 and older,81881,82692,93942,104620,111290,113959,114548,115887
+Columbus MSA,Population by Age,Population Ages 65 and older,299869,301355,352055,396592,429824,445878,455088,472244
+CEDS Region,Population by Age,Population Ages 65 and older,320911,322388,375222,421148,454432,469765,477950,494344
 Delaware,Population by Age,Population Ages 65 and older,31652,32363,41399,51830,62263,70999,78056,85365
 Fairfield,Population by Age,Population Ages 65 and older,26267,26549,29923,33389,35360,36021,36084,36588
 Fayette,Population by Age,Population Ages 65 and older,5349,5358,5803,6229,6414,6459,6410,6371
@@ -256,6 +301,9 @@ Ross,Population by Age,Population Ages 65 and older,13628,13610,15190,16243,1653
 Union,Population by Age,Population Ages 65 and older,8309,8559,9631,11363,12621,13367,13952,14688
 15-County Region,Population by Age,Population Ages under 18,562305,565353,587627,610020,637790,661930,679917,699676
 10-County Region,Population by Age,Population Ages under 18,515225,518295,540968,564067,591919,616110,633921,653476
+CORPO Region,Population by Age,Population Ages under 18,110394,111599,114328,119456,125499,130169,134623,139061
+Columbus MSA,Population by Age,Population Ages under 18,500603,503646,526141,549100,576825,600975,618383,637476
+CEDS Region,Population by Age,Population Ages under 18,525566,528629,551107,574075,601945,626127,643861,663308
 Delaware,Population by Age,Population Ages under 18,53873,55925,57994,62696,68656,74833,80560,85900
 Fairfield,Population by Age,Population Ages under 18,37515,37917,39948,42517,45382,47721,49781,51782
 Fayette,Population by Age,Population Ages under 18,6614,6600,6617,6510,6617,6856,7091,7290
@@ -273,6 +321,9 @@ Ross,Population by Age,Population Ages under 18,16034,16013,15668,15218,15015,14
 Union,Population by Age,Population Ages under 18,15142,15596,16083,17995,19992,21635,22646,23535
 15-County Region,Population in Households and Group Quarters,Group Quarters Population,68815,69119,71968,74909,78522,81365,83824,86283
 10-County Region,Population in Households and Group Quarters,Group Quarters Population,61319,61630,64485,67442,71066,73927,76412,78894
+CORPO Region,Population in Households and Group Quarters,Group Quarters Population,25928,26188,26993,28121,29393,30499,31527,32553
+Columbus MSA,Population in Households and Group Quarters,Group Quarters Population,52710,53020,55809,58713,62234,65046,67510,69971
+CEDS Region,Population in Households and Group Quarters,Group Quarters Population,61808,62119,64974,67935,71562,74427,76914,79399
 Delaware,Population in Households and Group Quarters,Group Quarters Population,2638,2707,3030,3403,3813,4182,4530,4878
 Fairfield,Population in Households and Group Quarters,Group Quarters Population,3038,3071,3225,3402,3600,3773,3935,4097
 Fayette,Population in Households and Group Quarters,Group Quarters Population,321,320,326,333,339,346,352,359
@@ -290,6 +341,9 @@ Ross,Population in Households and Group Quarters,Group Quarters Population,5876,
 Union,Population in Households and Group Quarters,Group Quarters Population,3416,3519,3596,3927,4275,4602,4920,5237
 15-County Region,Population in Households and Group Quarters,Household Population,2352344,2361918,2483347,2602017,2748658,2863334,2962030,3060728
 10-County Region,Population in Households and Group Quarters,Household Population,2144413,2154018,2273902,2391685,2537081,2650926,2748985,2847049
+CORPO Region,Population in Households and Group Quarters,Household Population,462049,466905,483336,505722,531085,553053,573314,593577
+Columbus MSA,Population in Households and Group Quarters,Household Population,2088332,2097997,2217931,2335092,2479414,2592713,2690490,2788272
+CEDS Region,Population in Households and Group Quarters,Household Population,2189989,2199564,2319508,2437599,2583348,2697484,2795818,2894155
 Delaware,Population in Households and Group Quarters,Household Population,212424,218033,243986,274081,307050,336735,364777,392819
 Fairfield,Population in Households and Group Quarters,Household Population,156319,157993,165958,175047,185220,194155,202469,210783
 Fayette,Population in Households and Group Quarters,Household Population,28618,28586,29093,29678,30295,30874,31438,32001
@@ -307,6 +361,9 @@ Ross,Population in Households and Group Quarters,Household Population,71109,7102
 Union,Population in Households and Group Quarters,Household Population,59661,61452,62812,68578,74658,80381,85924,91468
 15-County Region,Population in Households and Group Quarters,Household Population 18 - 64,1449212,1454277,1497375,1545555,1630591,1706439,1780072,1843869
 10-County Region,Population in Households and Group Quarters,Household Population 18 - 64,1326415,1331509,1377318,1427369,1512472,1587281,1659628,1721970
+CORPO Region,Population in Households and Group Quarters,Household Population 18 - 64,273361,276234,278802,285536,298359,313139,328493,343114
+Columbus MSA,Population in Households and Group Quarters,Household Population 18 - 64,1296295,1301475,1348662,1398776,1482693,1556223,1627758,1689663
+CEDS Region,Population in Households and Group Quarters,Household Population 18 - 64,1353187,1358266,1403351,1453007,1538169,1613235,1686029,1748902
 Delaware,Population in Households and Group Quarters,Household Population 18 - 64,127391,130250,145158,160190,176842,191683,207006,222463
 Fairfield,Population in Households and Group Quarters,Household Population 18 - 64,93480,94481,97089,100198,105596,111585,117826,123686
 Fayette,Population in Households and Group Quarters,Household Population 18 - 64,16906,16878,16928,17200,17529,17830,18212,18621
@@ -324,6 +381,9 @@ Ross,Population in Households and Group Quarters,Household Population 18 - 64,41
 Union,Population in Households and Group Quarters,Household Population 18 - 64,36551,37648,37456,39611,42470,45837,49816,53766
 15-County Region,Population in Households and Group Quarters,Household Population 65 and Older,341985,343454,399572,447734,481644,496398,503530,518728
 10-County Region,Population in Households and Group Quarters,Household Population 65 and Older,303790,305239,356702,401400,433916,448826,456784,473007
+CORPO Region,Population in Households and Group Quarters,Household Population 65 and Older,78731,79513,90664,101210,107730,110271,110743,111966
+Columbus MSA,Population in Households and Group Quarters,Household Population 65 and Older,292332,293782,344093,388245,420998,436680,445571,462411
+CEDS Region,Population in Households and Group Quarters,Household Population 65 and Older,312319,313760,366202,411735,444527,459481,467344,483417
 Delaware,Population in Households and Group Quarters,Household Population 65 and Older,31347,32050,41049,51437,61823,70516,77533,84802
 Fairfield,Population in Households and Group Quarters,Household Population 65 and Older,25399,25671,29001,32417,34331,34943,34960,35417
 Fayette,Population in Households and Group Quarters,Household Population 65 and Older,5098,5108,5548,5968,6149,6188,6135,6090
@@ -341,6 +401,9 @@ Ross,Population in Households and Group Quarters,Household Population 65 and Old
 Union,Population in Households and Group Quarters,Household Population 65 and Older,8011,8252,9318,11021,12249,12966,13523,14232
 15-County Region,Population in Households and Group Quarters,Household Population Under 18,561147,564187,586400,608728,636423,660497,678428,698131
 10-County Region,Population in Households and Group Quarters,Household Population Under 18,514208,517270,539882,562916,590693,614819,632573,652072
+CORPO Region,Population in Households and Group Quarters,Household Population Under 18,109957,111158,113870,118976,124996,129643,134078,138497
+Columbus MSA,Population in Households and Group Quarters,Household Population Under 18,499705,502740,525176,548071,575723,599810,617161,636198
+CEDS Region,Population in Households and Group Quarters,Household Population Under 18,524483,527538,549955,572857,600652,624768,642445,661836
 Delaware,Population in Households and Group Quarters,Household Population Under 18,53686,55733,57779,62454,68385,74536,80238,85554
 Fairfield,Population in Households and Group Quarters,Household Population Under 18,37440,37841,39868,42432,45293,47627,49683,51680
 Fayette,Population in Households and Group Quarters,Household Population Under 18,6614,6600,6617,6510,6617,6856,7091,7290
@@ -358,6 +421,9 @@ Ross,Population in Households and Group Quarters,Household Population Under 18,1
 Union,Population in Households and Group Quarters,Household Population Under 18,15099,15552,16038,17946,19939,21578,22585,23470
 15-County Region,Residential Labor Force,Labor Force,1262537,1273199,1315852,1365896,1438998,1504356,1563719,1618868
 10-County Region,Residential Labor Force,Labor Force,1165381,1176264,1219799,1270702,1343800,1408645,1467146,1521445
+CORPO Region,Residential Labor Force,Labor Force,235025,236364,241724,249378,260963,273156,285429,297118
+Columbus MSA,Residential Labor Force,Labor Force,1135915,1146920,1190942,1241642,1313742,1377761,1435748,1489782
+CEDS Region,Residential Labor Force,Labor Force,1187770,1198574,1241792,1292531,1365658,1430723,1489601,1544247
 Delaware,Residential Labor Force,Labor Force,114891,118150,131187,145617,160909,175061,188910,203502
 Fairfield,Residential Labor Force,Labor Force,79710,80424,83280,86584,91241,96111,101063,105823
 Fayette,Residential Labor Force,Labor Force,13086,13121,13259,13501,13711,13907,14168,14477
@@ -375,6 +441,9 @@ Ross,Residential Labor Force,Labor Force,32727,32572,31955,31421,31204,31167,311
 Union,Residential Labor Force,Labor Force,32882,33059,33765,35981,38766,42007,45552,48990
 15-County Region,Residential Labor Force,Workers,1205278,1215508,1256420,1304398,1374693,1437357,1494364,1547411
 10-County Region,Residential Labor Force,Workers,1113293,1123734,1165489,1214278,1284570,1346731,1402922,1455160
+CORPO Region,Residential Labor Force,Workers,225205,226494,231639,239019,250136,261843,273652,284953
+Columbus MSA,Residential Labor Force,Workers,1085432,1095992,1138225,1186856,1256232,1317608,1373289,1425240
+CEDS Region,Residential Labor Force,Workers,1134681,1145049,1186512,1235148,1305472,1367839,1424386,1476952
 Delaware,Residential Labor Force,Workers,111824,115004,127725,141809,156745,170552,184044,198235
 Fairfield,Residential Labor Force,Workers,76347,77027,79745,82920,87392,92057,96794,101342
 Fayette,Residential Labor Force,Workers,12431,12463,12592,12824,13020,13220,13472,13763

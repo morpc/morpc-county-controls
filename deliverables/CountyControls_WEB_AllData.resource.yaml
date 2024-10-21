@@ -1,13 +1,13 @@
 name: countycontrols_web_alldata
 type: table
 title: MORPC County-Level Forecasts, 2021-2050 MTP
-description: County-level forecasts of several demographic variables for five-year intervals between 2025 and 2050.  Also includes baseline estimates for 2020 and 2021.  This dataset is also known as the "county control totals" or "county controls" as the values are used to control (constrain) forecasts for sub-county geographies and demographic subgroups.
+description: County-level forecasts of several demographic variables for five-year intervals between 2025 and 2050.  Also includes baseline estimates for 2020 and 2021.  This dataset is also known as the "county control totals" or "county controls" as the values are used to control (constrain) forecasts for sub-county geographies and demographic subgroups.  The data also includes summaries for several county-based region definitions, including the MORPC 10-County Region, MORPC 15-County Region, Central Ohio Rural Planning Organization (CORPO) region, Comprehensive Economic Development Strategy (CEDS) region, and the Columbus Metropolitan Statistical Area (MSA).  The 10-County Region consists of Delaware, Fairfield, Franklin, Licking, Knox, Madison, Marion, Morrow, Pickaway, and Union counties.  The 15-County Region consists of the 10-County Region plus Fayette, Hocking, Logan, Perry, and Ross counties.  The CEDS Region consists of the 10-County Region plus Logan County.  The CORPO region consists of Fairfield, Knox, Madison, Marion, Morrow, Pickaway, and Union counties.  The Columbus MSA, as defined by the U.S. Census Bureau for the 2020 decennial census, consists of Delaware, Fairfield, Franklin, Hocking, Licking, Madison, Morrow, Perry, Pickaway, and Union counties(i.e. the 10-County region minus Knox plus Hocking).
 profile: tabular-data-resource
 path: CountyControls_WEB_AllData.csv
 scheme: file
 format: csv
 mediatype: text/csv
 encoding: utf-8
-hash: 074bc54ab842c2aa98a472e165f43bfb
-bytes: 39936
+hash: 7489f3ea36c0f6358a079952410ba204
+bytes: 47869
 schema: CountyControls_WEB_AllData.schema.yaml
