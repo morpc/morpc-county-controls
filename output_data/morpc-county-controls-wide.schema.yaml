@@ -155,6 +155,8 @@ fields:
     type: integer
   - name: wrkrs
     type: integer
+  - name: jobs
+    type: integer
 primaryKey:
   - vintage_period
   - vintage_period_freq
