@@ -1,0 +1,166 @@
+fields:
+  - name: vintage_period
+    type: integer
+  - name: vintage_period_freq
+    type: string
+  - name: scenario
+    type: string
+  - name: geoidfq
+    type: string
+  - name: sumlevel
+    type: string
+  - name: name
+    type: string
+  - name: reference_period
+    type: integer
+  - name: reference_period_freq
+    type: string
+  - name: pop
+    type: integer
+  - name: pophh
+    type: integer
+  - name: popgq
+    type: integer
+  - name: popa_0004
+    type: integer
+  - name: popa_0509
+    type: integer
+  - name: popa_1014
+    type: integer
+  - name: popa_1519
+    type: integer
+  - name: popa_2024
+    type: integer
+  - name: popa_2529
+    type: integer
+  - name: popa_3034
+    type: integer
+  - name: popa_3539
+    type: integer
+  - name: popa_4044
+    type: integer
+  - name: popa_4549
+    type: integer
+  - name: popa_5054
+    type: integer
+  - name: popa_5559
+    type: integer
+  - name: popa_6064
+    type: integer
+  - name: popa_6569
+    type: integer
+  - name: popa_7074
+    type: integer
+  - name: popa_7579
+    type: integer
+  - name: popa_8084
+    type: integer
+  - name: popa_85o
+    type: integer
+  - name: popahh_0004
+    type: integer
+  - name: popahh_0509
+    type: integer
+  - name: popahh_1014
+    type: integer
+  - name: popahh_1519
+    type: integer
+  - name: popahh_2024
+    type: integer
+  - name: popahh_2529
+    type: integer
+  - name: popahh_3034
+    type: integer
+  - name: popahh_3539
+    type: integer
+  - name: popahh_4044
+    type: integer
+  - name: popahh_4549
+    type: integer
+  - name: popahh_5054
+    type: integer
+  - name: popahh_5559
+    type: integer
+  - name: popahh_6064
+    type: integer
+  - name: popahh_6569
+    type: integer
+  - name: popahh_7074
+    type: integer
+  - name: popahh_7579
+    type: integer
+  - name: popahh_8084
+    type: integer
+  - name: popahh_85o
+    type: integer
+  - name: popagq_0004
+    type: integer
+  - name: popagq_0509
+    type: integer
+  - name: popagq_1014
+    type: integer
+  - name: popagq_1519
+    type: integer
+  - name: popagq_2024
+    type: integer
+  - name: popagq_2529
+    type: integer
+  - name: popagq_3034
+    type: integer
+  - name: popagq_3539
+    type: integer
+  - name: popagq_4044
+    type: integer
+  - name: popagq_4549
+    type: integer
+  - name: popagq_5054
+    type: integer
+  - name: popagq_5559
+    type: integer
+  - name: popagq_6064
+    type: integer
+  - name: popagq_6569
+    type: integer
+  - name: popagq_7074
+    type: integer
+  - name: popagq_7579
+    type: integer
+  - name: popagq_8084
+    type: integer
+  - name: popagq_85o
+    type: integer
+  - name: popa_17u
+    type: integer
+  - name: popa_1864
+    type: integer
+  - name: popa_65o
+    type: integer
+  - name: popahh_17u
+    type: integer
+  - name: popahh_1864
+    type: integer
+  - name: popahh_65o
+    type: integer
+  - name: popagq_17u
+    type: integer
+  - name: popagq_1864
+    type: integer
+  - name: popagq_65o
+    type: integer
+  - name: hh
+    type: integer
+  - name: hu
+    type: integer
+  - name: lbfrc
+    type: integer
+  - name: wrkrs
+    type: integer
+primaryKey:
+  - vintage_period
+  - vintage_period_freq
+  - scenario
+  - geoidfq
+  - sumlevel
+  - name
+  - reference_period
+  - reference_period_freq

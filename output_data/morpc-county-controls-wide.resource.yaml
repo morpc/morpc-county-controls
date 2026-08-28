@@ -1,0 +1,22 @@
+name: morpc-county-controls-wide
+type: table
+title: MORPC County Control Totals (wide format)
+description: 'Every four years, MORPC produces a set of county-level projections for
+  several variables in support of our transportation planning work. These are known
+  collectively as the ''county control totals''. This dataset may include several
+  vintages of projections. Projections are included for counties in the MORPC 15-county
+  region of interest, which includes the follow counties: Delaware, Fairfield, Fayette,
+  Franklin, Hocking, Knox, Licking, Logan, Madison, Marion, Morrow, Perry, Pickaway,
+  Ross, Union. Additionally, projections are included for the 15-county region as
+  a whole and several other county-based regions commonly used to describe Central
+  Ohio. More information about these projections and the methods used to create them
+  is available in the workflow documentation available at https://github.com/morpc/morpc-county-controls.
+  For inquiries related to these projections, please send an email to dataandmaps@morpc.org.'
+profile: data-resource
+path: morpc-county-controls-wide.csv
+scheme: file
+format: csv
+mediatype: text/csv
+hash: 8a83fddd374aff8666c6181d541e0392
+bytes: 220901
+schema: morpc-county-controls-wide.schema.yaml
