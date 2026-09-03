@@ -1,162 +1,332 @@
 fields:
   - name: vintage_period
     type: integer
+    description: 'Unique identifier for the geography'
   - name: vintage_period_freq
     type: string
+    description: 'Frequency descriptor and anchor for the vintage period. Y-DEC refers to a calendar year (i.e. a year ending in December)'
   - name: scenario
     type: string
+    description: 'Short description of the scenario for which the projection applies'
   - name: geoidfq
     type: string
+    description: 'Unique identifier for the geography for which the projection applies'
   - name: sumlevel
     type: string
+    description: 'Code that describes the geographic summary level (geography type)'
   - name: name
     type: string
+    description: 'Name of the geography for which the projection applies'
   - name: reference_period
     type: integer
+    description: 'Year for which the projection applies. Projection is referenced to July 1 of the indicated year.'
   - name: reference_period_freq
     type: string
+    description: 'Frequency descriptor and anchor for the reference period. Y-JUN refers to a year ending in June.'
   - name: pop
     type: integer
+    description: 'Total population'
   - name: pophh
     type: integer
+    description: 'Population in households'
   - name: popgq
     type: integer
+    description: 'Population in group quarters'
   - name: popa_0004
     type: integer
+    description: 'Population ages 0 to 4'
   - name: popa_0509
     type: integer
+    description: 'Population ages 5 to 9'
   - name: popa_1014
     type: integer
+    description: 'Population ages 10 to 14'
   - name: popa_1519
     type: integer
+    description: 'Population ages 15 to 19'
   - name: popa_2024
     type: integer
+    description: 'Population ages 20 to 24'
   - name: popa_2529
     type: integer
+    description: 'Population ages 25 to 29'
   - name: popa_3034
     type: integer
+    description: 'Population ages 30 to 34'
   - name: popa_3539
     type: integer
+    description: 'Population ages 35 to 39'
   - name: popa_4044
     type: integer
+    description: 'Population ages 40 to 44'
   - name: popa_4549
     type: integer
+    description: 'Population ages 45 to 49'
   - name: popa_5054
     type: integer
+    description: 'Population ages 50 to 54'
   - name: popa_5559
     type: integer
+    description: 'Population ages 55 to 59'
   - name: popa_6064
     type: integer
+    description: 'Population ages 60 to 64'
   - name: popa_6569
     type: integer
+    description: 'Population ages 65 to 69'
   - name: popa_7074
     type: integer
+    description: 'Population ages 70 to 74'
   - name: popa_7579
     type: integer
+    description: 'Population ages 75 to 79'
   - name: popa_8084
     type: integer
+    description: 'Population ages 80 to 84'
   - name: popa_85o
     type: integer
+    description: 'Population age 85 and over'
   - name: popahh_0004
     type: integer
+    description: 'Population in households ages 0 to 4'
   - name: popahh_0509
     type: integer
+    description: 'Population in households ages 5 to 9'
   - name: popahh_1014
     type: integer
+    description: 'Population in households ages 10 to 14'
   - name: popahh_1519
     type: integer
+    description: 'Population in households ages 15 to 19'
   - name: popahh_2024
     type: integer
+    description: 'Population in households ages 20 to 24'
   - name: popahh_2529
     type: integer
+    description: 'Population in households ages 25 to 29'
   - name: popahh_3034
     type: integer
+    description: 'Population in households ages 30 to 34'
   - name: popahh_3539
     type: integer
+    description: 'Population in households ages 35 to 39'
   - name: popahh_4044
     type: integer
+    description: 'Population in households ages 40 to 44'
   - name: popahh_4549
     type: integer
+    description: 'Population in households ages 45 to 49'
   - name: popahh_5054
     type: integer
+    description: 'Population in households ages 50 to 54'
   - name: popahh_5559
     type: integer
+    description: 'Population in households ages 55 to 59'
   - name: popahh_6064
     type: integer
+    description: 'Population in households ages 60 to 64'
   - name: popahh_6569
     type: integer
+    description: 'Population in households ages 65 to 69'
   - name: popahh_7074
     type: integer
+    description: 'Population in households ages 70 to 74'
   - name: popahh_7579
     type: integer
+    description: 'Population in households ages 75 to 79'
   - name: popahh_8084
     type: integer
+    description: 'Population in households ages 80 to 84'
   - name: popahh_85o
     type: integer
+    description: 'Population in households age 85 and over'
   - name: popagq_0004
     type: integer
+    description: 'Population in group quarters ages 0 to 4'
   - name: popagq_0509
     type: integer
+    description: 'Population in group quarters ages 5 to 9'
   - name: popagq_1014
     type: integer
+    description: 'Population in group quarters ages 10 to 14'
   - name: popagq_1519
     type: integer
+    description: 'Population in group quarters ages 15 to 19'
   - name: popagq_2024
     type: integer
+    description: 'Population in group quarters ages 20 to 24'
   - name: popagq_2529
     type: integer
+    description: 'Population in group quarters ages 25 to 29'
   - name: popagq_3034
     type: integer
+    description: 'Population in group quarters ages 30 to 34'
   - name: popagq_3539
     type: integer
+    description: 'Population in group quarters ages 35 to 39'
   - name: popagq_4044
     type: integer
+    description: 'Population in group quarters ages 40 to 44'
   - name: popagq_4549
     type: integer
+    description: 'Population in group quarters ages 45 to 49'
   - name: popagq_5054
     type: integer
+    description: 'Population in group quarters ages 50 to 54'
   - name: popagq_5559
     type: integer
+    description: 'Population in group quarters ages 55 to 59'
   - name: popagq_6064
     type: integer
+    description: 'Population in group quarters ages 60 to 64'
   - name: popagq_6569
     type: integer
+    description: 'Population in group quarters ages 65 to 69'
   - name: popagq_7074
     type: integer
+    description: 'Population in group quarters ages 70 to 74'
   - name: popagq_7579
     type: integer
+    description: 'Population in group quarters ages 75 to 79'
   - name: popagq_8084
     type: integer
+    description: 'Population in group quarters ages 80 to 84'
   - name: popagq_85o
     type: integer
+    description: 'Population in group quarters age 85 and over'
   - name: popa_17u
     type: integer
+    description: 'Population age 17 and under'
   - name: popa_1864
     type: integer
+    description: 'Population ages 18 to 64'
   - name: popa_65o
     type: integer
+    description: 'Population age 65 and over'
   - name: popahh_17u
     type: integer
+    description: 'Population in households age 17 and under'
   - name: popahh_1864
     type: integer
+    description: 'Population in households ages 18 to 64'
   - name: popahh_65o
     type: integer
+    description: 'Population in households age 65 and over'
   - name: popagq_17u
     type: integer
+    description: 'Population in group quarters age 17 and under'
   - name: popagq_1864
     type: integer
+    description: 'Population in group quarters ages 18 to 64'
   - name: popagq_65o
     type: integer
+    description: 'Population in group quarters age 65 and over'
   - name: hh
     type: integer
+    description: 'Total households'
   - name: hu
     type: integer
+    description: 'Total housing units'
   - name: lbfrc
     type: integer
+    description: 'Total persons in the labor force'
   - name: wrkrs
     type: integer
+    description: 'Total employed workers'
   - name: jobs
     type: integer
+    description: 'Total jobs'
+  - name: jobscat_off
+    type: integer
+    description: 'Jobs by category - Office'
+  - name: jobscat_rtg
+    type: integer
+    description: 'Jobs by category - Retail goods'
+  - name: jobscat_rts
+    type: integer
+    description: 'Jobs by category - Retail services'
+  - name: jobscat_ind
+    type: integer
+    description: 'Jobs by category - Industrial'
+  - name: jobscat_oth
+    type: integer
+    description: 'Jobs by category - Other'
+  - name: jobsind_11
+    type: integer
+    description: 'Jobs by industry - Agriculture, forestry, fishing and hunting (NAICS 11)'
+  - name: jobsind_21
+    type: integer
+    description: 'Jobs by industry - Mining (NAICS 21)'
+  - name: jobsind_22
+    type: integer
+    description: 'Jobs by industry - Utilities (NAICS 22)'    
+  - name: jobsind_23
+    type: integer
+    description: 'Jobs by industry - Construction (NAICS 23)'    
+  - name: jobsind_31
+    type: integer
+    description: 'Jobs by industry - Manufacturing (NAICS 31)'    
+  - name: jobsind_32
+    type: integer
+    description: 'Jobs by industry - Manufacturing (NAICS 32)'    
+  - name: jobsind_33
+    type: integer
+    description: 'Jobs by industry - Manufacturing (NAICS 33)'    
+  - name: jobsind_42
+    type: integer
+    description: 'Jobs by industry - Wholesale trade (NAICS 42)'    
+  - name: jobsind_44
+    type: integer
+    description: 'Jobs by industry - Retail trade (NAICS 44)'    
+  - name: jobsind_45
+    type: integer
+    description: 'Jobs by industry - Retail trade (NAICS 45)'    
+  - name: jobsind_48
+    type: integer
+    description: 'Jobs by industry - Transportation and warehousing (NAICS 48)'    
+  - name: jobsind_49
+    type: integer
+    description: 'Jobs by industry - Transportation and warehousing (NAICS 49)'    
+  - name: jobsind_51
+    type: integer
+    description: 'Jobs by industry - Information (NAICS 51)'    
+  - name: jobsind_52
+    type: integer
+    description: 'Jobs by industry - Finance and insurance (NAICS 52)'    
+  - name: jobsind_53
+    type: integer
+    description: 'Jobs by industry - Real estate and rental and leasing (NAICS 53)'    
+  - name: jobsind_54
+    type: integer
+    description: 'Jobs by industry - Professional, scientific, and technical services (NAICS 54)'    
+  - name: jobsind_55
+    type: integer
+    description: 'Jobs by industry - Management of companies and enterprises (NAICS 55)'    
+  - name: jobsind_56
+    type: integer
+    description: 'Jobs by industry - Administrative and support and waste management services (NAICS 56)'    
+  - name: jobsind_61
+    type: integer
+    description: 'Jobs by industry - Educational services (NAICS 61)'    
+  - name: jobsind_62
+    type: integer
+    description: 'Jobs by industry - Health care and social assistance (NAICS 62)'    
+  - name: jobsind_71
+    type: integer
+    description: 'Jobs by industry - Arts, entertainment, and recreation (NAICS 71)'    
+  - name: jobsind_72
+    type: integer
+    description: 'Jobs by industry - Accommodation and food services (NAICS 72)'    
+  - name: jobsind_81
+    type: integer
+    description: 'Jobs by industry - Other services, except public administration (NAICS 81)'    
+  - name: jobsind_92
+    type: integer
+    description: 'Jobs by industry - Public administration (NAICS 92)'    
+  - name: jobsind_99
+    type: integer
+    description: 'Jobs by industry - Unclassified (NAICS 99)'    
+    
 primaryKey:
   - vintage_period
   - vintage_period_freq
