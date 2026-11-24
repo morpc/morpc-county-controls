@@ -55,12 +55,12 @@ The white paper is comprised of a cover page (created in Adobe InDesign) and a b
       - Add/update alt text for any new or modified figures
 	  - Apply the appropriate Word styles to headings, emphasized text, etc. Match the existing styles if possible.
     - Save the body document as `MORPC Population Projections White Paper - body.docx` (i.e. no change to file name)
-    - Use the "Save As" feature (under the File menu) to save the body document as a PDF with the following name: `./deliverables/whitepaper_artifacts/ORPC Population Projections White Paper - body.pdf`.
+    - Use the "Save As" feature (under the File menu) to save the body document as a PDF with the following name: `./deliverables/whitepaper_artifacts/MORPC Population Projections White Paper - body.pdf`.
 	  - Be sure to use "Save As" and select PDF as the output type.  Do not use "Print to PDF" or "Save as Adobe PDF" or some accessibility features will not be copied to the PDF.
   - Update the cover document, if required (less common)
     - Update the native cover document (`./deliverables/whitepaper_artifacts/MORPC Population Projections White Paper - cover.indd`) in Adobe InDesign. 
 	  - If you are proficient with InDesign, you can do it yourself or you can ask the MORPC Communications team to do it.
-	  - If you do it yourself, you will need to obtain the necessary fonts. See `deliverables/whitepaper_artifacts/Document fonts/README.md`.
+	  - If you do it yourself, you will need to obtain the necessary fonts and graphics. See `deliverables/whitepaper_artifacts/Document fonts/README.md` and `deliverables/whitepaper_artifacts/Links/README.md`.
 	- Export the cover document as a PDF with the following name: `./deliverables/whitepaper_artifacts/MORPC Population Projections White Paper - cover.pdf`.
     - In Adobe Acrobat, [prepare the document for accessibility](https://www.section508.gov/create/pdfs/) as follows:
       - Open the accessibility tools
